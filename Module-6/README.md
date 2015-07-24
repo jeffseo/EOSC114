@@ -26,6 +26,9 @@ Generating/Disturbing Forces and the Wave types:
   2. Changes in atmospheric pressure; Storm surge; Tsunami -> Seiche
   3. Faulting of sea floor; Volcanic eruption; Landslide -> Tsunami
   4. Gravitational attraction; Rotation of Earth -> Tide  
+  
+Wind waves are the most common waves.
+
 **E. Explain the factors that determine the roughness of the sea**  
 
 **F. Describe how waves interact; explain constructive and destructive interference**  
