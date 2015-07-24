@@ -21,7 +21,11 @@ Steepness: a measure of the "peakedness" of a wave; the ratio of Height to Wavel
 **C. Explain how waves move matter and energy**  
 
 **D. Describe the forces that generate waves, eliminate waves, and return the ocean to a flat, undisturbed surface**  
-
+Generating/Disturbing Forces and the Wave types:
+  1. Wind over ocean -> Wind wave
+  2. Changes in atmospheric pressure; Storm surge; Tsunami -> Seiche
+  3. Faulting of sea floor; Volcanic eruption; Landslide -> Tsunami
+  4. Gravitational attraction; Rotation of Earth -> Tide  
 **E. Explain the factors that determine the roughness of the sea**  
 
 **F. Describe how waves interact; explain constructive and destructive interference**  
