@@ -13,6 +13,8 @@ Steepness: a measure of the "peakedness" of a wave; the ratio of Height to Wavel
 ![alt tag](http://www.aplusphysics.com/courses/regents/waves/images/Wave-Anatomy.png)
 
 B. Use these properties to determine wave speed and behavior in either shallow or deep water  
+**Waves with great heights transport more energy** than waves with shorter heights. Usually, though not all the time, waves with great heights also have long wavelengths. Therefore, energy transported by waves is related to the wave height, H (only applies to deep water waves).  
+Frequency formula: f = 1 / T and f = c / λ (where c = wave speed)
 C. Explain how waves move matter and energy  
 D. Describe the forces that generate waves, eliminate waves, and return the ocean to a flat, undisturbed surface  
 E. Explain the factors that determine the roughness of the sea  
