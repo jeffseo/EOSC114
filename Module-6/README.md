@@ -27,6 +27,7 @@ The speed of deep-water waves can be calculated as:
 A shallow-water wave is called non-dispersive because its wave speed is controlled only by the depth of the water. This means that all shallow-water waves, regardless of length, travel at the same speed when they are at the same depth. To calculate the speed of shallow-water waves, we use the following equation:  
   S = 3.1*sqrt(d), where d is the depth of the water; the calculated speed is in units of metres / seconds. When using this simplified equation, the unit for d must first be converted to metres.  
   
+Particles below the minimum depth known as the **wave base (L/2)**, do not feel any movement in response to a passing wave.  
 
 **Frequency formula:** f = 1 / T and f = c / λ (where c = wave speed)  
 
