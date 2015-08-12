@@ -119,8 +119,8 @@ released by the impact was equivalent to 6.2 × 107 tons of TNT. An estimated 10
       1. Dust thrown into the atmosphere would have shut off sunlight for weeks or perhaps months generating a period of cold (a "**Cold House**"), lasting weeks to months. The lack of sunlight would also have had severe consequences for plants and photosynthetic algae.
       2. After the dust had settled, water vapour would have remained in the atmosphere acting as a blanket, preventing heat from escaping the Earth. This would have created a greenhouse effect and caused a rise in global temperature.
       3. Eventually the excess water vapour would be removed by rainfall. However, the temperature of the Earth would continue to rise due to the release of greenhouse gases during impact (a "Hot House"), lasting years to decades. In particular, carbon dioxide would have been liberated when large quantities of limestone (calcium carbonate, CaCO3) would have vaporized during the impact.  
-      
-The Mesozoic had in general been a warm equable environment. These swings in temperature would have placed a lot of stress on creatures more used to stable climatic conditions.
+
+      The Mesozoic had in general been a warm equable environment. These swings in temperature would have placed a lot of stress on creatures more used to stable climatic conditions.
     2. Acid rain
       1. High-energy blasts can cause oxygen to combine with nitrogen to form **oxides of nitrogen**. When these are dissolved in water (i.e., rainfall), it becomes **nitric acid**.
       2. In addition to the vaporization of limestone as described in (a) above, rocks called evaporites were also vaporized in the blast. Evaporites form when salts precipitate out of solution as the sun evaporates a body of water. This can occur on a vast scale, for example in the Mediterranean Sea, which is closed off at the Strait of Gibraltar. With virtually no input of water from the Atlantic Ocean, high rates of evaporation resulted in the Sea being converted into a vast saltpan. This process had also occurred in the Yucatan area.  
@@ -132,6 +132,13 @@ Although the acidity of the nitric- and sulfuric-containing rain was weak and co
 This would have had a devastating effect on plant life and plankton. Thus, the effects from acid rain on the organisms that form the **base of the food chain or food web** had serious repercussions for all the creatures at higher trophic levels. For reference on how a food chain/food web operates, see a modern example below.
 
 **R. Consider other potential causes of the K/Pg environmental collapse**  
+  1. During the late Cretaceous, the supercontinent of Pangaea was starting to fragment. This would have caused changes in oceanic circulation and climate.
+  2. Even more significantly, global climate would have been affected by an increase in volcanic activity, in particular, during the formation of the Deccan Traps in India, which were highly active at this time. Like the Siberian Traps that occurred at the end of the Permian, this activity would have produced vast quantities of gases that could have seriously affected the Earth's climate.  
+
+The most appropriate conclusion we can derive from the observations made thus far is that the late Cretaceous biosphere was probably already stressed. The Chicxulub impact (or possibly others) acted as the "final nail in the coffin" taking an already "sick" biosphere further than it might have gone into a mass extinction event.  
+
+The creatures most likely to survive all the changes in environmental conditions would have been the **generalists** who did not require specific foodstuffs or particular environments to thrive. It would also help if a creature were small enough to be able to hide or burrow away from the more severe environmental changes. On land, the creatures that were able to adapt to these changes were the **mammals**. And it is this group that will radiate into the Cenozoic to take over the niches vacated by the dinosaurs.  
+
 **S. Describe the type and location of potential impactors and rate of meteor influx**  
 **T. List some of the major impact features preserved on the Earth’s surface and explain why impact craters appear to be rare on Earth**  
 **U. Describe some of the features and processes of crater formation**  
