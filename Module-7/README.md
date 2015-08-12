@@ -104,8 +104,33 @@ Iridium is known to exist in higher concentrations in extra-terrestrial objects 
   4. **Tsunami deposits** - Tsunami waves leave characteristic sedimentary deposits on inundated shores and as far inland as the waves reach. This feature was found in Mexico, Texas, New Jersey, and the Carolinas suggesting the passage of an enormous wave, far larger than could have been produced by standard tectonic processes. Such a wave could have been generated if an impact had occurred in the ocean.  
 
 **P. Describe the location and probable nature of the K/Pg impactor**  
+In the Yucatan Peninsula of Mexico, the Chicxulub Impact Crater has been confirmed to be from the K/Pg event.  
+
+The object responsible for this crater had a shallow angle of entry around 20 – 30° and is estimated to have been at least 10 km across. As an analogy, you can think of something the size of Mount Everest hitting the surface of the planet. The energy
+released by the impact was equivalent to 6.2 × 107 tons of TNT. An estimated 100 km3 of rock was vaporized and released to the atmosphere. Material that wasn't instantly vaporized was thrown out of the crater (the ejecta) and was deposited to the NW of the impact site.  
 
 **Q. Describe the initial and long-term effects of the impact and their environmental consequences**  
+  1. **Initial effects**(seconds to days) of the impact in the area of the Yucatan Peninsula were significant.
+    1. Everything close by would have been vaporized.
+    2. The intense heat from the blast and the hot debris (including tektites) would have started massive forest fires as suggested by the fern and pollen data.
+    3. As the impact occurred partly in the ocean, a massive tsunami would have been generated.
+  2. **Longer-term effects**(months to decades) of the impact were numerous. Two significant effects were on global temperature and on atmospheric composition.
+    1. Global temperature changes
+      1. Dust thrown into the atmosphere would have shut off sunlight for weeks or perhaps months generating a period of cold (a "**Cold House**"), lasting weeks to months. The lack of sunlight would also have had severe consequences for plants and photosynthetic algae.
+      2. After the dust had settled, water vapour would have remained in the atmosphere acting as a blanket, preventing heat from escaping the Earth. This would have created a greenhouse effect and caused a rise in global temperature.
+      3. Eventually the excess water vapour would be removed by rainfall. However, the temperature of the Earth would continue to rise due to the release of greenhouse gases during impact (a "Hot House"), lasting years to decades. In particular, carbon dioxide would have been liberated when large quantities of limestone (calcium carbonate, CaCO3) would have vaporized during the impact.  
+      
+The Mesozoic had in general been a warm equable environment. These swings in temperature would have placed a lot of stress on creatures more used to stable climatic conditions.
+    2. Acid rain
+      1. High-energy blasts can cause oxygen to combine with nitrogen to form **oxides of nitrogen**. When these are dissolved in water (i.e., rainfall), it becomes **nitric acid**.
+      2. In addition to the vaporization of limestone as described in (a) above, rocks called evaporites were also vaporized in the blast. Evaporites form when salts precipitate out of solution as the sun evaporates a body of water. This can occur on a vast scale, for example in the Mediterranean Sea, which is closed off at the Strait of Gibraltar. With virtually no input of water from the Atlantic Ocean, high rates of evaporation resulted in the Sea being converted into a vast saltpan. This process had also occurred in the Yucatan area.  
+  
+The effect of high-energy blasts on sulfate-rich evaporites is the release of large amounts of sulfur gases. These gases, when dissolved in rainwater, fall to Earth as **sulfuric acid**.
+
+Although the acidity of the nitric- and sulfuric-containing rain was weak and could probably not affect any large animals directly, they would have affected the acidity of soil and the surface ocean.  
+
+This would have had a devastating effect on plant life and plankton. Thus, the effects from acid rain on the organisms that form the **base of the food chain or food web** had serious repercussions for all the creatures at higher trophic levels. For reference on how a food chain/food web operates, see a modern example below.
+
 **R. Consider other potential causes of the K/Pg environmental collapse**  
 **S. Describe the type and location of potential impactors and rate of meteor influx**  
 **T. List some of the major impact features preserved on the Earth’s surface and explain why impact craters appear to be rare on Earth**  
