@@ -140,6 +140,14 @@ The most appropriate conclusion we can derive from the observations made thus fa
 The creatures most likely to survive all the changes in environmental conditions would have been the **generalists** who did not require specific foodstuffs or particular environments to thrive. It would also help if a creature were small enough to be able to hide or burrow away from the more severe environmental changes. On land, the creatures that were able to adapt to these changes were the **mammals**. And it is this group that will radiate into the Cenozoic to take over the niches vacated by the dinosaurs.  
 
 **S. Describe the type and location of potential impactors and rate of meteor influx**  
+Two general types of potential impactors:
+  1. **Comets** - are essentially material left over from the formation of the Solar System and are composed of icy material and other debris - effectively "dirty snowballs" in space. As comets travel towards the Sun, the ices vaporize producing the comet's tail. comets may have been responsible for bringing much of the water and perhaps some of the organic compounds that would lead to the development of life on Earth. There are two comet "stores" in the Solar System:
+    1. The Kuiper Belt exists in an area from about the orbit of Neptune to about 50 au's out (1 au = 150 million kilometres). Contains 1 billion comets that are greater than 5km in diameter.
+    2. The Oort cloud is a cloud of comets that exists way beyond the Kuiper belt and is only weakly associated with our Sun. May have more than 200 comets with a diameter greater than 500km with many smaller but still significant in size.
+  2. **Asteroids** are mostly found in a belt between the orbit of Mars and Jupiter. It is speculated that they may represent the material that might have formed another planet early in the history of the Solar System if it were not for the gravitational effects of Jupiter. a few are over 500 km in diameter, about 1000 have diameters greater than 30 km and 1 million (1 000 000 = 1 x 106) with diameters over 1 km.  
+
+**Around 100 billion (100 000 000 000 = 1 x 1011) objects enter our atmosphere every 24 hours!** Most of these are burned out at a distance of 60 km above the Earth's surface. These objects are commonly traveling around 11 - 30 km / second. At such speeds, the atmosphere acts like a brick wall. If an object enters at a shallow angle, it may skip like a stone being skipped across a pond and fly back out to space.  
+
 **T. List some of the major impact features preserved on the Earth’s surface and explain why impact craters appear to be rare on Earth**  
 **U. Describe some of the features and processes of crater formation**  
 **V. Provide examples of Canadian Impact Craters**  
