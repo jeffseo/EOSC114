@@ -98,7 +98,13 @@ The K/Pg is also well known for its association with a major extra- terrestrial 
 Iridium is known to exist in higher concentrations in extra-terrestrial objects such as asteroids. Alvarez suggested that the clay layer enriched in iridium has been produced by a meteor or comet over 10 km in diameter impacting the Earth. He suggested further that this impact may have also been responsible for the extinction at the end of the Cretaceous.  
 
 **O. Discuss the evidence used to support the K/Pg impact**  
+  1. **Fern spores vs. Pollen** - Ferns are often the first plants to colonize a landscape that has been devastated by fire. In the earliest Paleogene (part of what was formerly called the Tertiary), many areas show an increase in fern spores relative to pollen (see figure below). This suggests that global forest fires may have raged at the end of the Cretaceous leaving a landscape open for ferns to spread. This is further supported by high concentrations of soot found around the K/Pg boundary.
+  2. **Tektites** - thought to be produced during an impact event. They are composed of natural glass. During impact, rock is melted and ejected from the crater. As it travels through the air and cools, it forms characteristic aerodynamic shapes. Many tektites are found at the K/Pg boundary in many different locations, again suggesting a massive impact event.
+  3. **Shocked Quartz** - In many sections around the K/Pg boundary, fragments of the mineral quartz show evidence of multiple fractures. These fractures are thought to be produced when rock is shattered during a high-energy impact. The fragments are called shocked quartz.
+  4. **Tsunami deposits** - Tsunami waves leave characteristic sedimentary deposits on inundated shores and as far inland as the waves reach. This feature was found in Mexico, Texas, New Jersey, and the Carolinas suggesting the passage of an enormous wave, far larger than could have been produced by standard tectonic processes. Such a wave could have been generated if an impact had occurred in the ocean.  
+
 **P. Describe the location and probable nature of the K/Pg impactor**  
+
 **Q. Describe the initial and long-term effects of the impact and their environmental consequences**  
 **R. Consider other potential causes of the K/Pg environmental collapse**  
 **S. Describe the type and location of potential impactors and rate of meteor influx**  
