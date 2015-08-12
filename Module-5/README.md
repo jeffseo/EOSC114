@@ -1,7 +1,11 @@
 #Module: The Turbulent Atmosphere - Storms
 **LEARNING GOALS:**
   1. Be wary of the main storm hazards.
+    1. Thunderstorms can create many hazards to life and property: lightning, tornadoes, hail, downpours and local flooding, and downburst and gustfronts (we will learn about these in later vignettes).
   2. Recognize thunderstorms, be able to identify thunderstorm components, and and explain how they evolve.
+    1. Thunderstorms are **cumulonimbus** clouds that have **lightning** and **thunder**. These are deep clouds with strong **updrafts**, with a cloud base near the ground and cloud top near the top of the **troposphere** (roughly 11 km above sea level). Mature thunderstorms have a characteristic **anvil** or mushroom top, which can spread large distances (hundreds of km) downwind if blown by strong winds aloft.
+    2. Normally, the anvil is at the top of the troposphere, at a location called the **tropopause.** 
+    3. For thunderstorms with strong updrafts, the cloudy air can overshoot above the anvil into the lower stratosphere, causing an "**overshooting top**". 
   3. Explain how storms get their energy from the Sun.
   4. Explain the main characteristics that make a supercell thunderstorm so much nastier than a normal thunderstorm.
   5. Be able to recognize thunderstorms in radar and satellite images.
