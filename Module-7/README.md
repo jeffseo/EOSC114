@@ -75,6 +75,8 @@ Gondwana (a continent consisting of South America, Africa, Antarctica, India, an
       eg. **The Permo / Triassic Extinction**  
 At the end of the Permian, plate tectonics had brought all the continents together to form the super continent of Pangaea (see figure below).  
     2. **Changes in the atmosphere** In addition to the climatic effects due to continental configuration, volcanic activity can also have severe effects. Gases such as carbon dioxide can cause greenhouse warming and aerosols may cause climatic cooling. These can significantly affect the health of the biota.  
+  3. **Extraterrestrial impacts** discussed later on
+  4. **Combination of many factors** It is very unlikely that any one factor would be responsible for a global crisis in the biosphere. A combination of events and circumstances are generally recognized as being the cause of mass extinction events. This will be described more fully as we learn about the Permo-Triassic Extinction.  
 
 **M. Describe the late Ordovician and Permo-Triassic extinction**  
 **N. Describe the character of extinctions at the K/Pg boundary**  
