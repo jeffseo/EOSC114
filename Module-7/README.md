@@ -79,7 +79,24 @@ At the end of the Permian, plate tectonics had brought all the continents togeth
   4. **Combination of many factors** It is very unlikely that any one factor would be responsible for a global crisis in the biosphere. A combination of events and circumstances are generally recognized as being the cause of mass extinction events. This will be described more fully as we learn about the Permo-Triassic Extinction.  
 
 **M. Describe the late Ordovician and Permo-Triassic extinction**  
+  1. Permo Triassic extinction (251 Ma) is considered the WORST "day" for the biosphere as between 95-98% of all species would go into extinction. It hit both ocean- and land-based ecosystems and was less than 1 million years in duration. The cause includes a number of events coming together at the same time. The following is expected:
+    1. **Continental configuration: drop in biodiversity.** As discussed previously, the greater the landmass the greater the competition between species. At the end of the Permian, the supercontinent of Pangaea or "all lands" would have brought many species into direct competition.
+    2. **Sea level fall: less ocean ridge activity.** Sea floor spreading slowed its pace during the Permian. As a result, the oceanic ridges were smaller in size and displaced less water. Consequently oceans retreated from shallow areas into the deeper basin causing problems for creatures that lived in any remaining shallow marine environments.
+    3. **Oceanic stagnation.** The close of the formation of Pangaea saw the end of an ice age. Cold polar waters probably disappeared and ocean circulation slowed or stopped. This would have reduced ventilation of deep ocean waters killing off many deeper marine species. In addition occasional overturn of stagnant water could have brought oxygen poor waters to shallower marine communities as well.
+    4. **Climate change.** Due to the formation of a large landmass, climate would have been much drier and subject to drought.
+    5. **Siberian Traps: massive volcanic activity in Russia.** Around 2 - 3 million km3 basaltic lava were produced within a million years. Carbon dioxide from the volcanic activity and methane caused by melting of gas hydrates would have resulted in greenhouse warming of the planet. In addition, gas emission from volcanoes would have also produced acid rain effects.
+    6. **Possible impacts.** Although still very controversial, it is possible that the Earth suffered impacts from space during this time as well.
+  2. late Ordovician extinction is discussed in previous question
+
 **N. Describe the character of extinctions at the K/Pg boundary**  
+The Cretaceous - Paleogene (K/Pg) Extinction Event - At the end of the Cretaceous, many creatures, including the dinosaurs, went into extinction. Just as the end of the **Permian** extinction marked the beginning of a new grouping of periods (the **Mesozoic**) the end of the **Cretaceous** extinction is likewise so distinct that it marks the beginning of the latest grouping of periods, the **Cenozoic**.  
+
+Over 50% of all species would go into extinction during the K/Pg event. On land, few creatures over 25 kg in weight would survive. In general the extinction was even more severe in the oceans with around 80 - 90% of marine species including the ammonites and marine reptiles going into extinction.
+
+The K/Pg is also well known for its association with a major extra- terrestrial impact event. The Alvarez team was investigating a clay layer that occurs in a geological section that crosses the K/Pg boundary in Gubbio, Italy. The 1-cm clay layer lies directly on top of the latest Cretaceous rocks and was found to be enriched in the element iridium. Iridium is very rare at the Earth's surface and yet in this layer was enriched over 300× above background. This iridium anomaly has now been recorded in many other sections around the world that straddle the Cretaceous/Paleogene boundary.  
+
+Iridium is known to exist in higher concentrations in extra-terrestrial objects such as asteroids. Alvarez suggested that the clay layer enriched in iridium has been produced by a meteor or comet over 10 km in diameter impacting the Earth. He suggested further that this impact may have also been responsible for the extinction at the end of the Cretaceous.  
+
 **O. Discuss the evidence used to support the K/Pg impact**  
 **P. Describe the location and probable nature of the K/Pg impactor**  
 **Q. Describe the initial and long-term effects of the impact and their environmental consequences**  
