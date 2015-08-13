@@ -6,12 +6,18 @@
     1. Thunderstorms are **cumulonimbus** clouds that have **lightning** and **thunder**. These are deep clouds with strong **updrafts**, with a cloud base near the ground and cloud top near the top of the **troposphere** (roughly 11 km above sea level). Mature thunderstorms have a characteristic **anvil** or mushroom top, which can spread large distances (hundreds of km) downwind if blown by strong winds aloft.
     2. Normally, the anvil is at the top of the troposphere, at a location called the **tropopause.** 
     3. For thunderstorms with strong updrafts, the cloudy air can overshoot above the anvil into the lower stratosphere, causing an "**overshooting top**". 
+    4. ![alt tag](http://www.eos.ubc.ca/courses/Dist-Ed/eosc114-Storms/Storms/STimages/tstorm-basics-stull.jpg)
+    5. Thunderstorms normally move from **southwest to northeast** in the Northern Hemisphere. Best place to view thunderstorms is southeast of the storm where you stay out of its path.
+    6. The **mammatus clouds** are visible on the underside of anvil clouds sometimes but these give NO clue as to the intensity of the thunderstorm, or whether tornadoes are present. Note that not all thunderstorm anvils have mammatus clouds, and sometimes these clouds form on the underside of non-thunderstorm clouds.
   3. Explain how storms get their energy from the Sun.
   4. Explain the main characteristics that make a supercell thunderstorm so much nastier than a normal thunderstorm.
   5. Be able to recognize thunderstorms in radar and satellite images.
+    1. Weather radar transmits a beam of microwaves into the atmosphere, and "listens" for the faint echo of microwave energy that bounces back off of raindrops. Heavier rain causes a stronger echo, which is often coloured as yellow and red on radar displays. The lighter rain is shown with the blues and greens. The radar image below shows a number of thunderstorms producing spotty heavy rain, with no rain (shown as black in this image) in between.
+    2. On visible satellite photos of thunderstorms, you can often see the shadow of the thunderstorm anvil that is cast on the lower clouds or on the ground. The anvils (marking the tops of thunderstorms) in the satellite image below are circled in red. (Shown on page 8)
   6. Describe the different types of lightning, how they form, and what happens when they strike something.
   7. Explain the behavior of downbursts and gust fronts, and identify their associated cloud & dust features.
   8. Describe why the fact that "cold air holds less water vapour than warm air" is critical in explaining how thunderstorms can extract energy from humid air.
+    1. Warmer air can hold more water vapour at equilibrium than colder air. 
   9. Recognize mammatus clouds and the flanking line, and describe their relationship to thunderstorms.
   10. Explain how vertical and horizontal winds are created by heat released in storms.
   11. Explain what the continuity effect is, and how it ties vertical and horizontal motions into circulations.
