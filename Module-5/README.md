@@ -14,7 +14,24 @@
       2. Stage 2. Next is the **mature stage**, having both up and downdrafts (both of which could be violent), having precipitation (which could be heavy) and the start of an anvil with a sharp or crisp outline
       3. Stage 3. Finally is the **dissipating stage**, with only downdrafts, weaker precipitation, and a large anvil with a diffuse outline.  However, even after the original (mother) storm has dissipated, the gust front that it earlier created might encounter some more warm boundary layer air before it dies.
       4. Stage 4. When this happens, the cold gust-front air plows under the warmer, humid boundary layer air, triggering an updraft that can spawn a new (daughter) thunderstorm. This process is called **storm propagation**.
+    8. Thunderstorm organizations include:
+      1. **Orographic Thunderstorms**: Sometimes these orographic storms stay anchored over the mountains for a long time, due to favorable wind shear that continually feeds the storm with more fuel from the boundary layer. These stationary storms can cause dangerous **flash floods** that rush down the mountain canyons, because of the large accumulation of precipitation that falls upstream within the watershed.
+      2. **Multicell Storms**: A thunderstorm that contains many cells is called a multi-cell storm, and are the **most common** type of thunderstorm.  Often, the different cells are in different stages of their life cycle, with some older cells dissipating while newer cells are just forming. In some multi-cell storms, there is a flanking line of clouds sticking out from the main updraft (figure below on page 30). In this **flanking line** are often the new cells still in the cumulus stage. As they grow, the prevailing winds blow those cells into the main updraft, by which time the cells are often in the mature stage.
+      3. **Squall Lines**: Sometimes thunderstorms form in lines called **squall lines** or **squall-line thunderstorms** (see figure below on page 31 for a radar image of a squall line moving across Pennsylvania), where the heaviest rain cells merge into a long narrow line.
+￼
+Hence, it is a special type of multi-cell storm. These lines of storms can move toward the east or southeast, even though the individual thunderstorms within them are moving toward the northeast. Squall-line thunderstorms can be triggered along strong cold fronts or other strong air-mass boundaries.
+      4. **Air Mass Thunderstorms**: are garden-variety storms that pop up in scattered locations within a large air mass due to strong heating of the ground by the sun (as circled in red in the figure below from the previous Lesson page 33). Hence, these don't need to form along fronts or boundaries. Also, such thunderstorms are often short lived.
+      5. **Supercell Storms**: Some thunderstorms organize themselves into **supercell** storms, which are often severe, long lasting, often rotating, having violent wind gusts, and can cause tornadoes and hail.  These come in different flavors:
+        1. Low precipitation (LP)
+        2. classic
+        3. high precipitation (HP)  
+      
+      Supercell thunderstorms are often the **most dangerous variety**, and often consist of just one rotating cell.  
 
+      Supercells can last for 30 minutes and longer, due to favorable **wind shear** in the environment. Wind shear is when the wind speed or direction changes with altitude. In the case of supercell storms, there is often low altitude flow from the southeast, mid-altitude flow from the southwest, and fast upper-level flow is from the west. It is this mid-level wind (at roughly 5 km above ground) that steers thunderstorms toward the northeast, allowing the supercell storm to continuously draw in new humid boundary-layer air as fuel.  
+
+      Often, the whole supercell thunderstorm is rotating. This rotation is called a **mesocyclone**, and is often visible to the eye by the barrel-shaped appearance of the outside of the storm. Sometimes, as a result of this rotation, there are cloud striations (like the grooves on a screw) that spiral around the main updraft clouds (see Figure ST.29 photo D on next page). Time-lapse photographs of supercell mesocyclones clearly show the rotation of the whole thunderstorm. Also, the mesocyclone rotation can be observed by **Doppler radar**, which can detect motions inside the storm. The images on the next page are good examples of rotating supercell thunderstorms (page 36).
+      It is from mesocyclone rotation that the strongest tornadoes are formed (see Lesson 5).
   3. Explain how storms get their energy from the Sun.
   4. Explain the main characteristics that make a supercell thunderstorm so much nastier than a normal thunderstorm.
   5. Be able to recognize thunderstorms in radar and satellite images.
