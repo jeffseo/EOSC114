@@ -9,6 +9,12 @@
     4. ![alt tag](http://www.eos.ubc.ca/courses/Dist-Ed/eosc114-Storms/Storms/STimages/tstorm-basics-stull.jpg)
     5. Thunderstorms normally move from **southwest to northeast** in the Northern Hemisphere. Best place to view thunderstorms is southeast of the storm where you stay out of its path.
     6. The **mammatus clouds** are visible on the underside of anvil clouds sometimes but these give NO clue as to the intensity of the thunderstorm, or whether tornadoes are present. Note that not all thunderstorm anvils have mammatus clouds, and sometimes these clouds form on the underside of non-thunderstorm clouds.
+    7. A thunderstorm cloud that you see with your eye often contains one or more **cells**. Each cell has a life cycle that lasts for 5 to 15 minutes. Refer to the figure above, where orange represents warm, humid boundary layer air, blue represents cold downburst air, grey represents clouds, and blue hatching indicates precipitation.
+      1. Stage 1. It starts as a **cumulus phase**, having all updraft, no precipitation (i.e., rain, snow, sleet, hail, etc), and no anvil
+      2. Stage 2. Next is the **mature stage**, having both up and downdrafts (both of which could be violent), having precipitation (which could be heavy) and the start of an anvil with a sharp or crisp outline
+      3. Stage 3. Finally is the **dissipating stage**, with only downdrafts, weaker precipitation, and a large anvil with a diffuse outline.  However, even after the original (mother) storm has dissipated, the gust front that it earlier created might encounter some more warm boundary layer air before it dies.
+      4. Stage 4. When this happens, the cold gust-front air plows under the warmer, humid boundary layer air, triggering an updraft that can spawn a new (daughter) thunderstorm. This process is called **storm propagation**.
+
   3. Explain how storms get their energy from the Sun.
   4. Explain the main characteristics that make a supercell thunderstorm so much nastier than a normal thunderstorm.
   5. Be able to recognize thunderstorms in radar and satellite images.
@@ -18,6 +24,7 @@
   7. Explain the behavior of downbursts and gust fronts, and identify their associated cloud & dust features.
   8. Describe why the fact that "cold air holds less water vapour than warm air" is critical in explaining how thunderstorms can extract energy from humid air.
     1. Warmer air can hold more water vapour at equilibrium than colder air. 
+    2. Storms get their energy from temperature and humidity in the air. This energy is converted into violent winds and storm circulations through pressure and buoyancy. These circulations create organized storms that increase their own longevity by drawing in more heat and moisture. The results are spectacular and violent storms that behave in ways that can be understood for better safety and storm-chasing.
   9. Recognize mammatus clouds and the flanking line, and describe their relationship to thunderstorms.
   10. Explain how vertical and horizontal winds are created by heat released in storms.
   11. Explain what the continuity effect is, and how it ties vertical and horizontal motions into circulations.
