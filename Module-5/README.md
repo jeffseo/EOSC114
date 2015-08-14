@@ -34,6 +34,14 @@ Hence, it is a special type of multi-cell storm. These lines of storms can move 
       
       It is from mesocyclone rotation that the strongest tornadoes are formed (see Lesson 5).
   3. Explain how storms get their energy from the Sun.
+    1. Page 45
+    2. When the remaining sunlight *(that passed through Thermosphere [absorbs non-visible radiation], stratosphere [absorbes most of the ultraviolet light], and reaches the troposphere)* is absorbed by the ground, it causes Earth's surface to get warm. When this occurs, some of the energy can be consumed evaporating liquid water from the oceans, lakes, rivers, vegetation, and soil. This portion of energy from the sun is hidden as **latent heat** in the water vapour. The remainder goes into **sensible heating** of the air.
+    3. Therefore, the portion of energy from the sun that is captured at the Earth's surface is split into two parts:
+      1. Sensible heat
+      2. Latent heat
+    And these two heat sources are the fuel for storms which we measure by air temperature and humidity, respectively.
+    **TEMPERATURE** and **HUMIDITY** are very important when studying storms.
+    4. Since the sun is only available during the day, it is near sunset when the greater accumulation of heat occurs. Therefore, **late afternoon and early evening are the most likely times for thunderstorm formation**.
   4. Explain the main characteristics that make a supercell thunderstorm so much nastier than a normal thunderstorm.
   5. Be able to recognize thunderstorms in radar and satellite images.
     1. Weather radar transmits a beam of microwaves into the atmosphere, and "listens" for the faint echo of microwave energy that bounces back off of raindrops. Heavier rain causes a stronger echo, which is often coloured as yellow and red on radar displays. The lighter rain is shown with the blues and greens. The radar image below shows a number of thunderstorms producing spotty heavy rain, with no rain (shown as black in this image) in between.
@@ -43,6 +51,11 @@ Hence, it is a special type of multi-cell storm. These lines of storms can move 
   8. Describe why the fact that "cold air holds less water vapour than warm air" is critical in explaining how thunderstorms can extract energy from humid air.
     1. Warmer air can hold more water vapour at equilibrium than colder air. 
     2. Storms get their energy from temperature and humidity in the air. This energy is converted into violent winds and storm circulations through pressure and buoyancy. These circulations create organized storms that increase their own longevity by drawing in more heat and moisture. The results are spectacular and violent storms that behave in ways that can be understood for better safety and storm-chasing.
+    3. **Sensible heat** is consumed to evaporate water (i.e., to change its phase from liquid to vapour). This sensible heat is absorbed from the air surrounding the water and is "hidden" in the water vapour. Once "hidden" it is called **latent heat**. As air gives its heat up, it becomes cooler; it also becomes more humid due to the increased amount of water vapour.  
+    When water vapour condenses, the latent heat is converted back into sensible heat and returned to the surrounding air. This causes the air to get warmer. Namely, during condensation, the water gives back the heat into the air. Thus, humidity (the amount of water vapour in the air) also represents a measure of energy that can be released to power storms.
+    4. The sneaky aspect of this process is that sensible heat can be consumed to evaporate water in one location, but the water vapour can be blown by the wind to a different location such as a storm. When it condenses in this new location, it heats the storm. This is one of the major ways that storms get their energy -- through water vapour that is drawn into the storm and then condenses to release its latent heat. Thus, movement of water vapour causes movement of energy (heat).
+    5. to calculate the amount of latent heat Q, Q = m * L where m is the mass of water that is affected and L is the latent heat value.
+    6. Thus, thunderstorms are most likely to form in regions where there is the greatest supply of heat and moisture; namely, closer to the equator near warm ocean currents.
   9. Recognize mammatus clouds and the flanking line, and describe their relationship to thunderstorms.
   10. Explain how vertical and horizontal winds are created by heat released in storms.
   11. Explain what the continuity effect is, and how it ties vertical and horizontal motions into circulations.
