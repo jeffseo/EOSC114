@@ -1,8 +1,8 @@
 #Module: The Turbulent Atmosphere - Storms
 **LEARNING GOALS:**
-  1. Be wary of the main storm hazards.
+  1. **Be wary of the main storm hazards.**
     1. Thunderstorms can create many hazards to life and property: lightning, tornadoes, hail, downpours and local flooding, and downburst and gustfronts (we will learn about these in later vignettes).
-  2. Recognize thunderstorms, be able to identify thunderstorm components, and and explain how they evolve.
+  2. **Recognize thunderstorms, be able to identify thunderstorm components, and and explain how they evolve.**
     1. Thunderstorms are **cumulonimbus** clouds that have **lightning** and **thunder**. These are deep clouds with strong **updrafts**, with a cloud base near the ground and cloud top near the top of the **troposphere** (roughly 11 km above sea level). Mature thunderstorms have a characteristic **anvil** or mushroom top, which can spread large distances (hundreds of km) downwind if blown by strong winds aloft.
     2. Normally, the anvil is at the top of the troposphere, at a location called the **tropopause.** 
     3. For thunderstorms with strong updrafts, the cloudy air can overshoot above the anvil into the lower stratosphere, causing an "**overshooting top**". 
@@ -33,7 +33,7 @@ Hence, it is a special type of multi-cell storm. These lines of storms can move 
       Often, the whole supercell thunderstorm is rotating. This rotation is called a **mesocyclone**, and is often visible to the eye by the barrel-shaped appearance of the outside of the storm. Sometimes, as a result of this rotation, there are cloud striations (like the grooves on a screw) that spiral around the main updraft clouds (see Figure ST.29 photo D on next page). Time-lapse photographs of supercell mesocyclones clearly show the rotation of the whole thunderstorm. Also, the mesocyclone rotation can be observed by **Doppler radar**, which can detect motions inside the storm. The images on the next page are good examples of rotating supercell thunderstorms (page 36).  
       
       It is from mesocyclone rotation that the strongest tornadoes are formed (see Lesson 5).
-  3. Explain how storms get their energy from the Sun.
+  3. **Explain how storms get their energy from the Sun.**
     1. Page 45
     2. When the remaining sunlight *(that passed through Thermosphere [absorbs non-visible radiation], stratosphere [absorbes most of the ultraviolet light], and reaches the troposphere)* is absorbed by the ground, it causes Earth's surface to get warm. When this occurs, some of the energy can be consumed evaporating liquid water from the oceans, lakes, rivers, vegetation, and soil. This portion of energy from the sun is hidden as **latent heat** in the water vapour. The remainder goes into **sensible heating** of the air.
     3. Therefore, the portion of energy from the sun that is captured at the Earth's surface is split into two parts:
@@ -44,13 +44,13 @@ Hence, it is a special type of multi-cell storm. These lines of storms can move 
     4. Since the sun is only available during the day, it is near sunset when the greater accumulation of heat occurs. Therefore, **late afternoon and early evening are the most likely times for thunderstorm formation**.
     5. Wind moves warm and humid air. Such movement of heat and humidity by the wind is called **advection**. When some of the water vapour in humid air condenses, latent heat is released and converted into sensible heat, thereby increasing the air temperature. The net result is that the Sun's energy can be drawn into storms by two mechanisms (figure below): **advection of heat** (temperature), and **advection of moisture** (humidity).
     6. **SUMMARY:** The Sun heats the Earth's surface, which warms the air and evaporates water. This warm humid air is the fuel for storms, and can be advected into the storm by winds. Once this fuel is in the storm, water vapour condenses and releases latent heat, which both provides energy for the storm and creates precipitation. Organized storms (with positive feedback) are stronger.
-  4. Explain the main characteristics that make a supercell thunderstorm so much nastier than a normal thunderstorm.
-  5. Be able to recognize thunderstorms in radar and satellite images.
+  4. **Explain the main characteristics that make a supercell thunderstorm so much nastier than a normal thunderstorm.**
+  5. **Be able to recognize thunderstorms in radar and satellite images.**
     1. Weather radar transmits a beam of microwaves into the atmosphere, and "listens" for the faint echo of microwave energy that bounces back off of raindrops. Heavier rain causes a stronger echo, which is often coloured as yellow and red on radar displays. The lighter rain is shown with the blues and greens. The radar image below shows a number of thunderstorms producing spotty heavy rain, with no rain (shown as black in this image) in between.
     2. On visible satellite photos of thunderstorms, you can often see the shadow of the thunderstorm anvil that is cast on the lower clouds or on the ground. The anvils (marking the tops of thunderstorms) in the satellite image below are circled in red. (Shown on page 8)
-  6. Describe the different types of lightning, how they form, and what happens when they strike something.
-  7. Explain the behavior of downbursts and gust fronts, and identify their associated cloud & dust features.
-  8. Describe why the fact that "cold air holds less water vapour than warm air" is critical in explaining how thunderstorms can extract energy from humid air.
+  6. **Describe the different types of lightning, how they form, and what happens when they strike something.**
+  7. **Explain the behavior of downbursts and gust fronts, and identify their associated cloud & dust features.**
+  8. **Describe why the fact that "cold air holds less water vapour than warm air" is critical in explaining how thunderstorms can extract energy from humid air.**
     1. Warmer air can hold more water vapour at equilibrium than colder air. 
     2. Storms get their energy from temperature and humidity in the air. This energy is converted into violent winds and storm circulations through pressure and buoyancy. These circulations create organized storms that increase their own longevity by drawing in more heat and moisture. The results are spectacular and violent storms that behave in ways that can be understood for better safety and storm-chasing.
     3. **Sensible heat** is consumed to evaporate water (i.e., to change its phase from liquid to vapour). This sensible heat is absorbed from the air surrounding the water and is "hidden" in the water vapour. Once "hidden" it is called **latent heat**. As air gives its heat up, it becomes cooler; it also becomes more humid due to the increased amount of water vapour.  
@@ -58,16 +58,16 @@ Hence, it is a special type of multi-cell storm. These lines of storms can move 
     4. The sneaky aspect of this process is that sensible heat can be consumed to evaporate water in one location, but the water vapour can be blown by the wind to a different location such as a storm. When it condenses in this new location, it heats the storm. This is one of the major ways that storms get their energy -- through water vapour that is drawn into the storm and then condenses to release its latent heat. Thus, movement of water vapour causes movement of energy (heat).
     5. to calculate the amount of latent heat Q, Q = m * L where m is the mass of water that is affected and L is the latent heat value.
     6. Thus, thunderstorms are most likely to form in regions where there is the greatest supply of heat and moisture; namely, closer to the equator near warm ocean currents.
-  9. Recognize mammatus clouds and the flanking line, and describe their relationship to thunderstorms.
-  10. Explain how vertical and horizontal winds are created by heat released in storms.
-  11. Explain what the continuity effect is, and how it ties vertical and horizontal motions into circulations.
-  12. Describe rain and hail hazards of thunderstorms, and state actions you can take to be safe near thunderstorms.
-  13. Be able to recognize tornadoes and wall clouds.
-  14. Explain why supercell thunderstorms spawn the most dangerous tornadoes.
-  15. Relate the Enhanced Fujita scale to different amounts of damage.
-  16. Describe safety procedures near tornadoes.
-  17. Identify the times and places for high tornado risk.
-  18. Identify the components of a hurricane.
-  19. Explain how hurricanes get and utilize heat energy, and why hurricanes can exist for weeks.
-  20. List the requirements for hurricane existence, describe how hurricanes evolve, and what causes them to die.
-  21. Describe the risks associated with hurricanes, and appropriate safety procedures.
+  9. **Recognize mammatus clouds and the flanking line, and describe their relationship to thunderstorms.**
+  10. **Explain how vertical and horizontal winds are created by heat released in storms.**
+  11. **Explain what the continuity effect is, and how it ties vertical and horizontal motions into circulations.**
+  12. **Describe rain and hail hazards of thunderstorms, and state actions you can take to be safe near thunderstorms.**
+  13. **Be able to recognize tornadoes and wall clouds.**
+  14. **Explain why supercell thunderstorms spawn the most dangerous tornadoes.**
+  15. **Relate the Enhanced Fujita scale to different amounts of damage.**
+  16. **Describe safety procedures near tornadoes.**
+  17. **Identify the times and places for high tornado risk.**
+  18. **Identify the components of a hurricane.**
+  19. **Explain how hurricanes get and utilize heat energy, and why hurricanes can exist for weeks.**
+  20. **List the requirements for hurricane existence, describe how hurricanes evolve, and what causes them to die.**
+  21. **Describe the risks associated with hurricanes, and appropriate safety procedures.**
