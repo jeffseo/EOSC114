@@ -33,6 +33,9 @@ Hence, it is a special type of multi-cell storm. These lines of storms can move 
       Often, the whole supercell thunderstorm is rotating. This rotation is called a **mesocyclone**, and is often visible to the eye by the barrel-shaped appearance of the outside of the storm. Sometimes, as a result of this rotation, there are cloud striations (like the grooves on a screw) that spiral around the main updraft clouds (see Figure ST.29 photo D on next page). Time-lapse photographs of supercell mesocyclones clearly show the rotation of the whole thunderstorm. Also, the mesocyclone rotation can be observed by **Doppler radar**, which can detect motions inside the storm. The images on the next page are good examples of rotating supercell thunderstorms (page 36).  
       
       It is from mesocyclone rotation that the strongest tornadoes are formed (see Lesson 5).
+    9. **SUMMARY (of page 92):** Air cools at the dry adiabatic lapse rate as it rises. If lifted high enough to become cold enough to reach saturation, then condensation of water occurs within the air parcel. This marks cloud- base (LCL) altitude for cumuliform clouds such as thunderstorms and cumulus clouds.  
+As the cloudy air parcel continues to rise, it still cools, but at a slower rate called the saturated or moist adiabatic lapse rate. Eventually the rising air parcel reaches the tropopause, where it stops rising and spreads out to form the characteristic anvil shape at the top of thunderstorms.  
+Most thunderstorms are short-lived because of the limited availability of boundary-layer fuel nearby. But some severe storms such as supercells exist in an environment with wind shear, and can last longer.
   3. **Explain how storms get their energy from the Sun.**
     1. Page 45
     2. When the remaining sunlight *(that passed through Thermosphere [absorbs non-visible radiation], stratosphere [absorbes most of the ultraviolet light], and reaches the troposphere)* is absorbed by the ground, it causes Earth's surface to get warm. When this occurs, some of the energy can be consumed evaporating liquid water from the oceans, lakes, rivers, vegetation, and soil. This portion of energy from the sun is hidden as **latent heat** in the water vapour. The remainder goes into **sensible heating** of the air.
@@ -104,6 +107,8 @@ large, but it is very transient as it moves with the storm. Some hazards from do
       2. don't drive through water of unknown depth
 
   13. **Be able to recognize tornadoes and wall clouds.**
+    1. **Tornadoes** are violently rotating columns of air in contact with the ground. All violent tornadoes come from **supercell thunderstorms** (see unit B), particularly those thunderstorms that are rotating as **mesocyclones**.
+    2. Most tornadoes are made visible by cloud-water droplets (the **funnel cloud**) and/or by dust and debris from the ground (the **debris cloud** on page 95). Some tornadoes are invisible.
   14. **Explain why supercell thunderstorms spawn the most dangerous tornadoes.**
   15. **Relate the Enhanced Fujita scale to different amounts of damage.**
   16. **Describe safety procedures near tornadoes.**
