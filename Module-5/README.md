@@ -49,6 +49,14 @@ Hence, it is a special type of multi-cell storm. These lines of storms can move 
     1. Weather radar transmits a beam of microwaves into the atmosphere, and "listens" for the faint echo of microwave energy that bounces back off of raindrops. Heavier rain causes a stronger echo, which is often coloured as yellow and red on radar displays. The lighter rain is shown with the blues and greens. The radar image below shows a number of thunderstorms producing spotty heavy rain, with no rain (shown as black in this image) in between.
     2. On visible satellite photos of thunderstorms, you can often see the shadow of the thunderstorm anvil that is cast on the lower clouds or on the ground. The anvils (marking the tops of thunderstorms) in the satellite image below are circled in red. (Shown on page 8)
   6. **Describe the different types of lightning, how they form, and what happens when they strike something.**
+    1. Classification:
+      1. **cloud-to-cloud (intercloud, IC)**
+      2. **cloud-to-ground (CG)** - can be further classified whether **negative** or **positive** charges move to the ground. Negative strikes form from the cloud base and are more numerous. Positive strikes are less frequent and are often much stronger, and form from the thunderstorm anvil. 
+    2. Diagram on page 55. Lightning forms because electrical charges build up in thunderstorms, associated with the freezing and collision of cloud droplets and ice crystals (called **graupeln**). When the electrical potential (i.e., charge difference) between the cloud and ground becomes great enough (a **breakdown potential** of 3 billion volts / km is needed, for every km length of the lightning bolt), the air **ionizes**.  
+      
+      This changes the air from an insulator to a conductor, along that ionized path. This path very rapidly steps down from the cloud, and is known as a **stepped leader**. When it nears the ground **streamers** of electrons rise from tall trees, poles, and buildings to meet the stepped leader. Once they make this connection, closing the circuit, the electrons flow in a massive current (2,000 to 200,000 amperes) called the **return stroke**.   
+      
+      It is this return stroke that you see, and which creates the thunder. This return stroke partially discharges the cloud. If you see a lightning bolt flicker, it is because there are many discharges (i.e., many return strokes) happening in short succession down the same ionized path, before the path is torn apart by the wind.
   7. **Explain the behavior of downbursts and gust fronts, and identify their associated cloud & dust features.**
   8. **Describe why the fact that "cold air holds less water vapour than warm air" is critical in explaining how thunderstorms can extract energy from humid air.**
     1. Warmer air can hold more water vapour at equilibrium than colder air. 
