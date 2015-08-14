@@ -58,6 +58,9 @@ Hence, it is a special type of multi-cell storm. These lines of storms can move 
       
       It is this return stroke that you see, and which creates the thunder. This return stroke partially discharges the cloud. If you see a lightning bolt flicker, it is because there are many discharges (i.e., many return strokes) happening in short succession down the same ionized path, before the path is torn apart by the wind.
   7. **Explain the behavior of downbursts and gust fronts, and identify their associated cloud & dust features.**
+    1. **Downbursts** are regions of rapidly descending air. From thunderstorms, downbursts are caused both by falling rain that drags some air down with it, and by the evaporation of some of the rain as it falls, which cools the air (cold air sinks). Downbursts can be a hazard to aircraft, especially just after takeoff or just before landing.
+    2. **Gust Fronts**. When the downburst hits the ground, the air spreads out to create violent **straight-line winds** that can be a hazard to mobile homes. The leading edge of this cold, spreading air is called the **gust front**. If this gust front blows over dry dusty surfaces, it can pick up lots of dust to become a dust storm or sand storm called a **haboob**. In humid regions, the advancing gust front can push the surrounding warm, humid air upward to create a cloud called an arc cloud. The gust front and arc cloud initially form immediately around the precipitation area, but sometimes they advance faster than the thunderstorm moves and end up well in front of the precipitation areas.
+
   8. **Describe why the fact that "cold air holds less water vapour than warm air" is critical in explaining how thunderstorms can extract energy from humid air.**
     1. Warmer air can hold more water vapour at equilibrium than colder air. 
     2. Storms get their energy from temperature and humidity in the air. This energy is converted into violent winds and storm circulations through pressure and buoyancy. These circulations create organized storms that increase their own longevity by drawing in more heat and moisture. The results are spectacular and violent storms that behave in ways that can be understood for better safety and storm-chasing.
@@ -83,6 +86,23 @@ Hence, it is a special type of multi-cell storm. These lines of storms can move 
     6. In this particular example, the circulation was driven by buoyancy in the vertical. However, similar circulations develop that are driven by horizontal pressure gradients. Namely, air parcels that are forced horizontally will cause vertical circulations to move the surrounding air out of the way and to deposit it back behind the air parcel. Thus, vertical and horizontal motions are linked, by the effect of continuity.
     7. **SUMMARY:** Forces create winds. Temperature alters buoyancy, to create vertical winds. Temperature alters pressure, to drive horizontal winds. Continuity links vertical and horizontal winds into circulations.
   12. **Describe rain and hail hazards of thunderstorms, and state actions you can take to be safe near thunderstorms.**
+    1. **Hail** - Also falling out of the strongest thunderstorms can be hail, which are irregularly shaped balls of ice. The size of hail can range from the size of peas to the size of baseballs. The larger ones can cause extreme crop damage, break car damage, and cause severe injuries if they hit people. Hail can come from any large thunderstorm, but are most common with supercells (low precipitation storms).
+    2. Normal precipitation forms when small ice crystals near the top of the thunderstorm fall in the downdraft regions into warmer air, where they melt and continue down as rain. The larger the raindrop, the deeper the cloud that it fell from (which is why we see large drops from deep thunderstorms, and smaller droplets and drizzle from the thinner nimbostratus clouds).
+    3. Hail forms when the small ice crystals near the top of the thunderstorm re-circulate and fall down into the updraft region, instead of the downdraft region. This allows them to accumulate many layers of ice, growing like layers of an onion. Because hailstones are so heavy, thunderstorms need to have very strong updrafts, and the hailstones often fall out very close to the updraft part of the storm. Rarely, hail has been observed to fall from the anvil of a thunderstorm.
+    4. Hail is difficult to forecast and The damage path left by a moving hailstorm is called a **hail swath**.
+    5. How to be safe during a hailstorm:
+      1. get indoors
+      2. leave the hail area or get under a roof
+      3. if exposed to strong hail, pull over and park + close eyes to keep eyes safe.
+    6. **Downpour (Rain)**. Thunderstorm rain can be heavy, covering only small areas. Raindrops are usually very
+large, but it is very transient as it moves with the storm. Some hazards from downpours are:
+      1. flash floods
+      2. reduced visiblity while driving
+      3. rain-triggered landslides
+    7. to be safe during downpurs:
+      1. move to high ground
+      2. don't drive through water of unknown depth
+
   13. **Be able to recognize tornadoes and wall clouds.**
   14. **Explain why supercell thunderstorms spawn the most dangerous tornadoes.**
   15. **Relate the Enhanced Fujita scale to different amounts of damage.**
