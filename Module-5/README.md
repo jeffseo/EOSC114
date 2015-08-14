@@ -68,6 +68,10 @@ Hence, it is a special type of multi-cell storm. These lines of storms can move 
     6. Thus, thunderstorms are most likely to form in regions where there is the greatest supply of heat and moisture; namely, closer to the equator near warm ocean currents.
   9. **Recognize mammatus clouds and the flanking line, and describe their relationship to thunderstorms.**
   10. **Explain how vertical and horizontal winds are created by heat released in storms.**
+    1. Warmer temperatures can cause motions (winds) in storms via buoyancy and pressure. **Buoyancy** creates **vertical motions** (up and downdrafts) and is the dominant process in thunderstorms. **Pressure** creates **horizontal motions** (horizontal winds), and is the dominant process in **cyclones**. Both buoyancy and pressure are important in **hurricanes**.  
+    Not only do storm winds cause damage directly, but also the winds are responsible for advecting into the storm more of the warm, humid air that is their fuel. Thus, without processes to convert temperature into motion, storms would probably not exist as we know them, because they wouldn't be able to continue to draw in fuel to survive for long times. Storms are said to be **organized** if they tend perpetuate themselves with this positive feedback.
+    2. Forces create wind by moving air parcels and when air parcel moves, this is nothing more than wind.
+    3. **Temperature Alters Buoyancy to Drive Vertical Winds** - Warm air wants to rise, thereby creating updrafts. Cold air wants to sink, thereby creating downdrafts. The reason for these vertical motions is that temperature affects the density of air, and density affects buoyancy. **Warm air is less dense than cold air**.
   11. **Explain what the continuity effect is, and how it ties vertical and horizontal motions into circulations.**
   12. **Describe rain and hail hazards of thunderstorms, and state actions you can take to be safe near thunderstorms.**
   13. **Be able to recognize tornadoes and wall clouds.**
