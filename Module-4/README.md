@@ -124,7 +124,9 @@
       5. Altering climate - global warming
   11. **Relate the type of landslide damage expected as a function of its velocity.**
     1. The amount of water in the flow dictates its viscosity while the abundance of rock determines its flow density. The greater the velocity and density of the flow, the greater the corresponding amount of destruction. Flow velocity is primarily a function of slope steepness and water content. The greater the water content of a flow, the less viscous it is and the faster it will move. Furthermore, because debris flows are made up of suspended grains of various sizes, they are extremely dense (rocks are ~2.7 times denser than water) and can transport large boulders. The larger the boulders entrained in the flow, the more damage the flow will likely incur.
+    2. Basically, faster it is, more damage it will do.
   12. **Identify tell-tale signs of an unstable slope.**
+    Scar at the top, track running downhill, broken/bent trees(?)
   13. **Compare and contrast avoidance, prevention, and protection strategies for dealing with landslide hazards.**
     1. **Avoidance (avoid the problem)**: An often used method of avoiding the problem is relocating a facility, structure, or route of a planned new road or rail line, to avoid areas along which landslide hazards may be a problem.
     2. **Landslide prevention**: This approach works towards preventing a landslide from occurring. This is usually done by reducing the driving forces (e.g. active mass, pore pressure, etc.) or by increasing the resisting forces (e.g. anchors, buttresses, etc.) examples in Figure LA.44 of page 50
