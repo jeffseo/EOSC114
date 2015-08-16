@@ -1,5 +1,11 @@
 #Module: The Explosive Earth - Volcanoes
 1. **Explain what magma density and magma viscosity are.**
+  1. **Magma is formed by melting pre-existing rock in Earth's interior.** Melted rock is less dense than solid rock, so it will rise towards the surface of the Earth. Some magmas are trapped in the crust, whereas other magmas travel through fractures in the crust and eventually extrude onto Earth's surface.
+  2. For magma to rise through the crust it must be: 
+    1. Less dense than the crust
+    2. Runny enough to flow (i.e., it must have low viscosity)
+    3. Hot enough to stay liquid. 
+    4. All these properties depend on the magma's composition and temperature.
 2. **List the different categories of volcanic rocks and explain the differences between the magmas they came from.**
 3. **Explain why some magmas erupt explosively (as pyroclastic material) and some magmas erupt effusively (as lava).**
 4. **Explain the differences between pahoehoe and a'a lavas.**
