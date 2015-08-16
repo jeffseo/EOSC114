@@ -30,7 +30,36 @@
       1.**Pore water pressure, u ** - factors that add spaces between grains (primarily water pressure), which decrease the strength of the material.
       2. The above equation (on page 16) for Factor of Safety states that high values of normal stress and cohesion and low values of pore water pressure and shear stress imply a more stable slope (FS > 1). Any change in the terms above will result in an increase or a decrease in the Factor of Safety, implying increased stability or increased instability of the slope.
   4. **Compare and contrast landslide causes and how they differ from landslide triggers.**
+    1. A cause is a factor that makes slopes susceptible to movement without actually initiating a landslide. On the other hand, a trigger is the event that actually initiates movement by driving the Fs < 1.0. 
+    2. Common triggers include: 
+      1. earthquakes
+      2. volcanic eruptions
+      3. intense, short-period rainfall 
+      4. mining and quarrying
+      5. irrigation
+      6. vegetation removal
+      7. excavation of a slope at its toe loading of the slope at its crest 
+      8. loud noises or vibrations
+    3. Note that any of the above can either be a cause or a trigger. The only difference between them is that the trigger is the single event that starts the slope material in motion. Landslides may have several causes including geological, mechanical, hydrological, morphological, biological, physical, and anthropogenic (human) but can only have ONE trigger. In some cases, landslides may occur without an apparent trigger because of combined processes, such as progressive failure or weathering that gradually bring the slope to failure.
+    4. Essentially, factors that decrease slope stability when the Fs >= 1.0 or when shear strength is greater than shear stress are considered causes.
   5. **Assess the balance between the strength of the slope and the destabilizing forces due to erosion, vegetation, precipitation, and anthropogenic activity that are acting on it (Factor of Safety).**
+    1. **Erosion** is the transport of material away from its source. There are many different agents of erosion but water is the mos common. **Rapid erosion** occurs when large storms rapidly erode and undercut coastal slopes which can trigger large landslides. Ex. 1935 UBC washout. Removing material at the base of a slope can cause slope failure in one of two ways:
+      1. The driving mass becomes greater than the resisting mass.
+      2. The slope steepness at the base of the slope increases such that shear stress becomes greater than shear strength.
+    2. **Vegetation** is  factor that influences slope stability by affecting the shear strength of the materials comprising the slope. 
+      1. Plant roots increase soil cohesion and strength by helping to bind loose materials. In addition, roots decrease surface erosion and help to absorb excess water through evapotranspiration.  
+      2. Removal of vegetation can make slopes unstable. Furthermore, landslides are more likely to occur on slopes that have been clear-cut or completely ravaged by fire, between about 4 to 15 years after logging or burning. This is because it takes time for the remaining root structures to degrade. However, once decay has occurred, soil cohesion decreases and shear failure surfaces can develop at the interface between the soil horizon and the underlying bedrock material.
+    3. **Precipitation**
+    4. **Anthropogenic Activity**
+    5. **Additional factors**:
+      1. **Water content** plays an important role in either causing or hindering mass wasting and landslides:
+        1. excessive amount of water can increase a slopes mass which increases the **shear stress**
+        2. water can affect fluid pressure which reduces friction and ultimately reduces **shear strength**
+        3. water can increase the weathering of rocks and can wedge apart rocks
+        4. in sediment, water helps or hinders cohesion. In sand, water can make it went and help build a verticle wall. If it's too wet, then if flows like a fluid and cannot remain in position as a wall.
+      2. **Volcanic activity**
+      3. **Earthquakes**
+
   6. **Describe how groundwater affects shear stress and shear strength, and how it contributes towards the increased likelihood of a landslide.**
   7. **Outline the different factors, both natural and human, that contributed to the Vaiont landslide disaster.**
   8. **Differentiate the mechanism by which liquefaction landslides develop in loose sands and sensitive clays.**
