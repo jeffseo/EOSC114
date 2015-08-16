@@ -10,6 +10,7 @@
       4. global warming
     4. Globally, landslide fatalities are typically underestimated as many fatalities are associated with the landslide trigger (earthquakes, floods, etc.) and not the landslide. The world's most devastating landslide disasters typically involve numerous fatalities due to both **direct** and **indirect** consequences.
   2. **Distinguish between the different modes of failure (falls, flows, slides, topples, and spreads) and how they are influenced by geology.**
+    1. **falls**
   3. **Define the chief components of landslide risk.**  
 **Mass movement**, sometimes also referred to as **mass wasting**, refers to the downslope motion of soil and/or rock materials under the influence of **gravity**.  
 **Landslide** is a general term for mass movements. These events occur when the gravitational force pulling the slope material down exceeds the slope material's internal resistance to shear or failure. Materials move downslope by sliding or shearing along a weak failure plane or a number of failure planes.
@@ -76,6 +77,10 @@
       
       Additionally, a relationship between the intensity and abundance of precipitation and landslide type has been observed. Heavy and prolonged rainfall can increase groundwater levels as a result of deep infiltration of abundant water. An elevated groundwater table tends to trigger more deep-seated and slower moving landslides such as slumps versus shallower, more fluid, and faster moving (and more dangerous) flows.
   7. **Outline the different factors, both natural and human, that contributed to the Vaiont landslide disaster.**
+    1. Human factors that contributed to the Vaiot landslide include:
+      1. Not enough thorough geological investigations of all section of slopes during construction
+    2. Natural factors that contributed to the landslide include:
+      1. Water content
   8. **Differentiate the mechanism by which liquefaction landslides develop in loose sands and sensitive clays.**
   9. **Explain why British Columbia has the highest frequency of landslides in Canada and what the future holds as the population expands into mountainous regions.**
   10. **List the different human activities that contribute to increased landslide hazards.**
