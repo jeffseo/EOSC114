@@ -49,18 +49,27 @@
     2. **Vegetation** is  factor that influences slope stability by affecting the shear strength of the materials comprising the slope. 
       1. Plant roots increase soil cohesion and strength by helping to bind loose materials. In addition, roots decrease surface erosion and help to absorb excess water through evapotranspiration.  
       2. Removal of vegetation can make slopes unstable. Furthermore, landslides are more likely to occur on slopes that have been clear-cut or completely ravaged by fire, between about 4 to 15 years after logging or burning. This is because it takes time for the remaining root structures to degrade. However, once decay has occurred, soil cohesion decreases and shear failure surfaces can develop at the interface between the soil horizon and the underlying bedrock material.
-    3. **Precipitation**
-    4. **Anthropogenic Activity**
+    3. **Precipitation** - landslides occur more frequently after periods of heavy railfall as a result of water affecting the erosion rates, interacting with geologic materials, and its affect on pore pressure as discussed before. On the west coast of Canada, landslides are more common in the winter months when precipitation is high as well as in the spring when the winter snow pack begins to melt.
+    4. **Anthropogenic Activity** - human causes of a landslide include:
+      1. excavation of a slope at its toe
+      2. loading of a slope at is crest
     5. **Additional factors**:
       1. **Water content** plays an important role in either causing or hindering mass wasting and landslides:
         1. excessive amount of water can increase a slopes mass which increases the **shear stress**
         2. water can affect fluid pressure which reduces friction and ultimately reduces **shear strength**
         3. water can increase the weathering of rocks and can wedge apart rocks
         4. in sediment, water helps or hinders cohesion. In sand, water can make it went and help build a verticle wall. If it's too wet, then if flows like a fluid and cannot remain in position as a wall.
-      2. **Volcanic activity**
-      3. **Earthquakes**
+      2. **Volcanic activity** - Deposition of loose volcanic ash on hillsides commonly is followed by accelerated erosion and frequent mud or debris flows triggered by intense rainfalls. Volcanic eruptions have directly triggered some of the largest historic landslides.
+      3. **Earthquakes** - Strong ground shaking during seismic activity is a very common triggering mechanisms for landslides in many different topographic and geologic settings. Earthquakes as small as M 4.0 may trigger landslides in susceptible slopes, and larger earthquakes can generate thousands of landslides. **seismic loads destabilize slopes by inducing shear stresses thereby weakening the internal structure of the slope material.**
 
   6. **Describe how groundwater affects shear stress and shear strength, and how it contributes towards the increased likelihood of a landslide.**
+    > 1. **Water content** plays an important role in either causing or hindering mass wasting and landslides:
+        1. excessive amount of water can increase a slopes mass which increases the **shear stress**
+        2. water can affect fluid pressure which reduces friction and ultimately reduces **shear strength**
+        3. water can increase the weathering of rocks and can wedge apart rocks
+        4. in sediment, water helps or hinders cohesion. In sand, water can make it went and help build a verticle wall. If it's too wet, then if flows like a fluid and cannot remain in position as a wall.
+    
+Additionally, a relationship between the intensity and abundance of precipitation and landslide type has been observed. Heavy and prolonged rainfall can increase groundwater levels as a result of deep infiltration of abundant water. An elevated groundwater table tends to trigger more deep-seated and slower moving landslides such as slumps versus shallower, more fluid, and faster moving (and more dangerous) flows.
   7. **Outline the different factors, both natural and human, that contributed to the Vaiont landslide disaster.**
   8. **Differentiate the mechanism by which liquefaction landslides develop in loose sands and sensitive clays.**
   9. **Explain why British Columbia has the highest frequency of landslides in Canada and what the future holds as the population expands into mountainous regions.**
