@@ -53,6 +53,11 @@
     4. **Anthropogenic Activity** - human causes of a landslide include:
       1. excavation of a slope at its toe
       2. loading of a slope at is crest
+      3. Deforestation for construction and development, including clear-cut logging on slopes
+      4. irrigation
+      5. mining
+      6. water leakage from utilities
+      7. Artificial vibration
     5. **Additional factors**:
       1. **Water content** plays an important role in either causing or hindering mass wasting and landslides:
         1. excessive amount of water can increase a slopes mass which increases the **shear stress**
@@ -68,8 +73,8 @@
         2. water can affect fluid pressure which reduces friction and ultimately reduces **shear strength**
         3. water can increase the weathering of rocks and can wedge apart rocks
         4. in sediment, water helps or hinders cohesion. In sand, water can make it went and help build a verticle wall. If it's too wet, then if flows like a fluid and cannot remain in position as a wall.
-    
-Additionally, a relationship between the intensity and abundance of precipitation and landslide type has been observed. Heavy and prolonged rainfall can increase groundwater levels as a result of deep infiltration of abundant water. An elevated groundwater table tends to trigger more deep-seated and slower moving landslides such as slumps versus shallower, more fluid, and faster moving (and more dangerous) flows.
+      
+      Additionally, a relationship between the intensity and abundance of precipitation and landslide type has been observed. Heavy and prolonged rainfall can increase groundwater levels as a result of deep infiltration of abundant water. An elevated groundwater table tends to trigger more deep-seated and slower moving landslides such as slumps versus shallower, more fluid, and faster moving (and more dangerous) flows.
   7. **Outline the different factors, both natural and human, that contributed to the Vaiont landslide disaster.**
   8. **Differentiate the mechanism by which liquefaction landslides develop in loose sands and sensitive clays.**
   9. **Explain why British Columbia has the highest frequency of landslides in Canada and what the future holds as the population expands into mountainous regions.**
