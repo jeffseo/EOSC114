@@ -7,6 +7,11 @@
     3. Hot enough to stay liquid. 
     4. All these properties depend on the magma's composition and temperature.
 2. **List the different categories of volcanic rocks and explain the differences between the magmas they came from.**
+  1. **Lava flows** - Lava flows result when magma that is relatively low in gas content (less than a few percent) erupts effusively at Earth's surface.
+    1. pahoehoe - ropy-textured surface a of lava flow
+    2. 'a'a - rubble-y flow top consisting of broken fragment of lava
+  2. **volcanic glass** -  In some cases magma erupts and cools so quickly that crystallization does not occur. The magma solidifies into glass, a supercooled liquid. Glass is not crystalline, although volcanic glass may contain some microscopic crystals of common minerals. This glass is called **obsidian** if it is massive, or **pumice** if it contained many bubbles (called **vesicles**). The bubbles form from gas that escaped from the magma during eruption.
+  3. **Pyroclastic Material** - Pyroclastic (Greek for "fire piece", or hot fragment) material refers to fragments of all sizes that are erupted explosively out of a volcano. These range from the finest material, **ash** (< 2 mm diameter) through **lapilli** (2 - 64 mm) to larger **blocks** and **bombs** (> 64 mm). Many pieces of pumice are actually pumice lapilli.
 3. **Explain why some magmas erupt explosively (as pyroclastic material) and some magmas erupt effusively (as lava).**
 4. **Explain the differences between pahoehoe and a'a lavas.**
 5. **Describe the different types of volcanic eruptions and how they are related to magma properties.**
