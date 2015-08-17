@@ -58,22 +58,67 @@
 9. **Explain what pyroclastic flows, lahars, volcanic domes, sector collapses, lateral blasts, and toxic gases are and how they form.**
   1. **Pyroclastic flows**: Pyroclastic flows are turbulent mixtures of hot gas and pyroclastic fragments that are emplaced laterally from a volcanic vent. They consist of ash, lapilli, crystals, and other rock fragments called **lithic fragments**. These flows are density currents that move at speeds of 300 - 400 km/hr. The largest pyroclastic flows can travel 10's of kilometers from their source. The temperature of a pyroclastic flow is generally in the 500 - 700 °C range.
     1. Pyroclastic flows tend to be confined to low areas in the topography such as stream valleys radiating from a volcanic cone. 
-    2. Pyroclastic flows originate in several ways. The most common way is by collapse of an eruption column. Another method is by sudden collapse of part of an erupting volcanic dome.
+    2. Pyroclastic flows originate in several ways. The most common way is by collapse of an eruption column. 
+    3. Another method is by sudden collapse of part of an erupting **volcanic dome**.
+    3. when a small pyroclastic eruption builds up and overspills the crater rim resulting in a high-speed flow of pyroclastic materials.
+    4. failure of one side of a volcanic edifice may lead to a lateral blast of pyroclastic material which then flows down slope.
   2. **Lahar**:  Lahars or volcanic mud or debris flows are extremely destructive mixtures of water, ash, rock fragments of all sizes, and debris that travel swiftly down slope from a volcano, at speeds up to 50 km/hr. They follow stream valleys. Some lahars are hot when they are emplaced because they are associated with pyroclastic eruptions, but other lahars may occur long after volcanic activity has ceased.
     1. As mentioned earlier, formation of a lahar requires the following: pyroclastic material and water. Lots of water! The water may come from melted snow and ice high on the flanks of a volcano.
-  3. **Toxic Gasses**:
+  3. **Toxic Gasses**:Toxic gases may be released by a volcano during or between active eruptions. Many types of gas are emitted from volcanoes, but water (H2O) and carbon dioxide (CO2) are the most common components. Other gases include sulfur
+dioxide (SO2), hydrogen sulfide (H2S), and hydrogen chloride (HCl). About 1 - 10% of a magma consists of gas.
+  4. **Volcanic Landslide (Sector collapse)**: a down slope failure of a portion of a volcanic edifice. Eruptive products that compose the volcano are altered to clay minerals by hydrothermal fluids. Clays have low shear strength. The combination of water percolating into the volcano (either from rain, melted snow, or hot springs) combined with clay can lead to failure under the influence of gravity with no warning or precursor activity. Volcanic landslides may turn into mudflows or debris flows down slope.
+    1. Volcanic landslides can be triggered by volcanic activity, earthquakes, rapid melting of snow and ice, or heavy rainfall events.
+
 10. **Describe the particular hazards associated with pyroclastic flows, lahars, dome collapses, sector collapses, lateral blasts, and toxic gases.**
   1. **Pyroclastic flows**: Pyroclastic flows are the most lethal of the eruptive products. These flow mostly along channels, ridges, and valleys, but can also jump the banks as it travels at high speed over tens of kilometres. Effects from pyroclastic flows are mostly limited to the immediate vicinity of the source volcano, but all life and structures in its path are destroyed.
   2. **Lahar**: Roads, bridges, houses, livestock, and people may all be caught up in their destructive path. They do a lot of damage because they travel long distances away from a volcano so their presence may not be associated with it, and they can occur in between times of volcanic activity.
     1. Some volcanic eruptions can cause their own micro-weather system which can result in lahars. Water, a common gaseous product of eruption, can be blown high into the atmosphere as steam, eventually to fall as heavy rain. Rain falling on thick accumulations of pyroclastic material on steep slopes set off lahars. This sequence of events buried the city of Herculaneum days after the eruption of Mount Vesuvius.
+  3. **Toxic Gasses**: 
+    1.  SO2 may combine with H2O to form dilute sulfuric acid (H2SO4). This in turn forms "acid rain" which can destroy crops, leach heavy metals from steel structures, nails, and paint, and contaminate cisterns full of drinking water.
+    2.  CO2 is dangerous because it is denser than air and can accumulate in low areas. sudden release of large amount of CO2 that was trapped can kill people/crops.
+  4. **Sector Collapses (Volcanic landslide)**: landslide can lead to a debris avalanche which can be devastating.
+  5. **SUMMARY**: Volcanoes may have multiple types of eruptions and thus the hazards at a volcano will vary with time. Not all volcanic hazards are directly associated with explosive eruptions; even mafic lava flows are dangerous if observers are not careful. Neither are all volcanic hazards directly associated with eruptions; lahars may occur without warning during times of volcanic quiescence.
 11. **Explain how the size of a volcanic eruption is estimated.**
+  1. **Volcanic Explosivity Index (VEI)**: provide a relative measure of the explosiveness of volcanic eruptions and to classify eruptions as to their potential for disaster. (0: non-explosive explosion to 8: mega-colossal explosive eruption) It considers:
+    1. **volume** of eruption products;
+    2. eruption **plume or cloud height**;
+    3. **duration** of eruption; and
+    4. **qualitative observations** (with terms that range from non-explosive, gentle, cataclysmic, to mega-colossal)
 12. **List the different volcano monitoring techniques and the instruments that are used.**
+  1. **Volcano Monitoring Strategy**. Scientists monitor volcanic activity to detect and measure changes in its state caused by magma movement beneath the volcano. Rising magma typically will:
+    1. trigger **swarms of earthquakes** and other types of seismic events; 
+    2. cause **swelling or subsidence** of a volcano's summit or flanks; and 
+    3. lead to the release of **volcanic gases** from the ground and vents
+  2. Techniques include:
+    1. **Seismic monitoring**: The **most useful technique** for predicting volcanic activity.
+      1. Increased seismic activity is associated with eruptions or precursor activity before eruptions. The location, frequency, and types of earthquakes are all important. As buoyant magma rises through the crust, it fractures the overlying rock to make room for itself. This causes concentrations of earthquakes in space and time.
+      2. Pre-eruption 'quakes are typically swarms consisting of dozens to hundreds of events, M < 5, and increasing in frequency or intensity as an eruption is imminent. These quakes occur closer to the eruption location and become shallower as eruption nears.
+      2. **Acoustic flow monitors**: are a specialized type of seismometer that are optimized to detect and record high frequency (10 - 250 Hz) vibrations caused by lahars, rather than lower frequency vibrations in the 0.5 - 10 Hz range that are typical of earthquakes.
+    2. **Ground deformation**: A volcano changes shape when magma and/or gas moves into a reservoir beneath or within the volcanic edifice.
+      1. Simple, inexpensive, yet effective **direct measurements of horizontal displacement** can be made by physically taping the distance between two metal stakes
+      2. **Tiltmeters** are sensitive instruments that record changes in the tilt of a surface. These instruments are placed around the flanks of a volcano and the change in tilt is measured over time.
+      3. **The Global Positioning System (GPS)** can be used to pinpoint horizontal and vertical movement of targets on a volcano through repeated measurements over time.
+      4. A safer but more expensive way of making ground deformation measurements is to use **InSAR (satellite radar interferometry)**. This technique involves satellites using radar waves to measure the elevation of large areas of the crust in the vicinity of active volcanoes over an interval of time.
+    3. **Increased gas emissions:** Increased gas emissions may reflect a change in magma supply rate, a change in the type of magma that is erupting, or a change in the underground fracture system that is routing gas towards the surface. Volcanoes typically record 2 - 3 orders of magnitude increase in SO2 emissions during or prior to an eruption.
+      1. **Direct collection of gases** emitted at fumaroles is possible, but in an active volcanic setting this may be getting too close for comfort for most people!
+      2. the **correlation spectrometer (COSPEC)** allows us to estimate SO2 emissions in an eruption plume from afar and thus with little danger. A COSPEC **measures** the amount of solar ultraviolet light absorbed by sulfur dioxide and compares it to a standard.
+      3. **Fourier transform infrared spectrometer (FTIR)** is a third technique commonly used in sampling and measuring gas emissions from volcanoes. The FTIR analyzes several gases simultaneously and uses a mathematical process (the Fourier transform) to convert the raw data into the desired format, the amount of light absorbed at each wavelength.
+    4. **Visible signs of volcanic activity**:
+      1. **Still photography and video footage** are used extensively to document changes to active volcanoes.
+      2. **LIDAR (light detection and ranging)** images such as the one of the dome at Mount St. Helens in September - October, 2004 (Figure below) can be used to calculate the volume of new material added over time.
+    5. **Increased heat flow**: Increased heat flow from a volcano may indicate the presence of new magma at the surface, fracturing of the crust due to magma upwelling, or increased activity at hot springs and/or fumaroles.
+      1. **Direct observations** of glowing magma or glowing cracks in a volcano are certainly possible. An **optical pyrometer**, a hand-held device, may be used to determine the temperature of glowing lava.
+      2. **Aerial remote sensing of infrared spectra** can record anomalously hot areas.
+      3. **Forward looking infrared (FLIR)** images, taken by airplanes or satellites, are also being used extensively to monitor dome growth at Mount St. Helens.
+      4. **Remote Sensing (Satellite) Monitoring Strategies.**
 13. **Explain what a volcanic hazard map is and why they are useful.**
-14. **Use your knowledge of volcanic processes to map major hazards around different volcanoes. O. Evaluate the hazards to Vancouver associated with an eruption from Mount Baker.**
-15. **Describe the distribution of the world's active volcanoes.**
-16. **List the three types of plate boundaries and the different types of volcanoes that occur at these plate boundaries.**
-17. **Describe the type of volcanoes that occur at oceanic and continental hot spots.**
-18. **Describe the tectonic setting of British Columbia and determine the dominant type of volcano that occurs here.**
+  1. Spatial data for a volcano, such as the distribution of eruptive units, are plotted on a geologic map. The map is then used to identify hazards, based on past history, and to produce a **volcanic hazards map** showing zones of likely eruptive activity, and specific hazards.
+14. **Use your knowledge of volcanic processes to map major hazards around different volcanoes. **
+15. **Evaluate the hazards to Vancouver associated with an eruption from Mount Baker.**
+16. **Describe the distribution of the world's active volcanoes.**
+17. **List the three types of plate boundaries and the different types of volcanoes that occur at these plate boundaries.**
+18. **Describe the type of volcanoes that occur at oceanic and continental hot spots.**
+19. **Describe the tectonic setting of British Columbia and determine the dominant type of volcano that occurs here.**
 
 Extra: 
   1. Anatomy of an Explosive Eruption (page 12):
