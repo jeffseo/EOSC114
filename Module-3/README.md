@@ -110,18 +110,34 @@ dioxide (SO2), hydrogen sulfide (H2S), and hydrogen chloride (HCl). About 1 - 10
       1. **Direct observations** of glowing magma or glowing cracks in a volcano are certainly possible. An **optical pyrometer**, a hand-held device, may be used to determine the temperature of glowing lava.
       2. **Aerial remote sensing of infrared spectra** can record anomalously hot areas.
       3. **Forward looking infrared (FLIR)** images, taken by airplanes or satellites, are also being used extensively to monitor dome growth at Mount St. Helens.
-      4. **Remote Sensing (Satellite) Monitoring Strategies.**
+      4. **Remote Sensing (Satellite) Monitoring Strategies.**  
+
+  In summary, every volcano behaves differently from others, and any volcano may change its behavior over time. Therefore, a monitoring scheme that is successful at one volcano may not work at another volcano, and any monitoring scheme should be continually reassessed and updated as eruptive conditions change.
 13. **Explain what a volcanic hazard map is and why they are useful.**
   1. Spatial data for a volcano, such as the distribution of eruptive units, are plotted on a geologic map. The map is then used to identify hazards, based on past history, and to produce a **volcanic hazards map** showing zones of likely eruptive activity, and specific hazards.
-14. **Use your knowledge of volcanic processes to map major hazards around different volcanoes. **
+14. **Use your knowledge of volcanic processes to map major hazards around different volcanoes.**
 15. **Evaluate the hazards to Vancouver associated with an eruption from Mount Baker.**
+  1. Mount Baker has a lot of snow/ startovolcano which is common in vancouver, british columbia
 16. **Describe the distribution of the world's active volcanoes.**
+  1. mainly on convergent plates
 17. **List the three types of plate boundaries and the different types of volcanoes that occur at these plate boundaries.**
+  1. **Divergent margins**: two plates spread apart due to upwelling of the upper mantle and the injection of magma. Most divergent margins are located in the ocean basins and are called mid-ocean ridges (MOR), as they form undersea mountain ranges. The on-land equivalent of a MOR is known as a **continental rift zone**.
+    1. Divergent plate boundaries are host to about 15% of Earth's active sub-aerial volcanoes, but many more **submarine** volcanoes are found at the mid-ocean ridge (MOR). In fact most volcanic activity on Earth is probably taking place at the MOR, but the majority of these volcanic vents are under water and therefore not so dangerous to us.
+    2. since ocean crust is mafic while continental crust ranges from mafic through intermediate to felsic, and since most of the divergent boundaries are submarine, assume that mafic volcanoes form.
+  2. **Convergent margins**: two places collide, one plate subduct into the mantle beneath the other mantle. This holds true for ocean-ocean collisions and ocean-continent collisions, and **volcanic arcs** form in the overlying plate in these settings. Where two continental plates collide, however, neither will subduct, as both are too buoyant to descend into the dense mantle. Rather, they suture together in a massive collisional zone to form a large mountain chain. **Magmatism is rare** in continent-continent collision zones.
+    1. ocean-ocean convergent margins: volcanoes in oceanic arcs are composite volcanoes
+    2. ocean-continent convergent margins: composite volcanoes
+    1. about 80% of active **sub-aerial** volcanoes (those located above ground level) are associated with convergent plate margins. Many active volcanoes are found along the margins of the Pacific Ocean basin, where their presence is due to the convergent margin setting. This has lead to the term "Pacific Ring of Fire" to describe this concentration of volcanoes.
+  3. **Transform fault**: two plates slide laterally past one another. **Magmatism is also rare** along this type of plate boundary.
 18. **Describe the type of volcanoes that occur at oceanic and continental hot spots.**
+  1. Additional active sub-aerial volcanoes are found within oceanic and continental plates, and not located along a plate boundary. These are called **hotspot** volcanoes.
+  2. **Oceanic hotspots**: Volcanoes formed in these oceanic hotspot settings are typically shield volcanoes (along with some small cinder cones) that erupt mafic magma.
+  3. **Continental hotspots**: The production of large volumes of high silica, high viscosity magma in continental hotspot settings leads to the formation of giant calderas. 
 19. **Describe the tectonic setting of British Columbia and determine the dominant type of volcano that occurs here.**
-
+  1. Subduction of the Juan de Fuca plate beneath the North American Plate. Dominant type is composite(?) or caldera
 Extra: 
-  1. Anatomy of an Explosive Eruption (page 12):
+  1. Although any volcano is potentially hazardous, the most hazardous volcanoes are composite volcanoes and calderas because of their tendency to erupt gas-rich viscous magmas. The volumes of these explosive eruptions may be high, especially for eruptions associated with a caldera. On a positive note, calderas erupt infrequently.
+  2. Anatomy of an Explosive Eruption (page 12):
     1. High silica magma forms in the crust by melting of pre- existing rock. Gas is dissolved in this magma due to the high pressure underground.
     2. The magma rises towards Earth's surface because it is less dense than the surrounding solid rock.
     3. As the magma rises, the dissolved gas expands and forms bubbles in the magma. This process is called **vesiculation**.
