@@ -89,8 +89,16 @@
   3. Units for preassure and stress: 1 N/m^2 = 1 Pascal (Pa)
 13. **Describe population growth and explain why it is important for natural disasters.**
   1. **Population Growth**: undergoing **exponential growth** at the moment. 
+  2. With growing population, we become increasingly more vulnerable to natural disasters.
+    1. infrastructure would become more sensitive, and fail for long periods in large areas
+    2. People are less likely to be evacuated successfully, so fatalities will increase.
+    3. When all factors are taken together, the functionality of human society is in jeopardy. This is primarily due to overpopulation.
 14. **Explain how Earth's carrying capacity and overpopulation are related to the fate of the human race, and anticipate your role in it.**
-  1. **Carrying capacity**: 
+  1. **Carrying capacity**: the population that can be sustainably supported within a given domain (e.g., Earth). Population that exceeds the carrying capacity of an area or environment is said to be **overpopulated**.
+  2. If the carrying-capacity population is reached, the quality of life would be extremely unpleasant. Our survival would be marginal. On average, all of us will be near starvation, receiving the minimum food needed to stay alive. The atmosphere would be so contaminated that life spans would be extremely short. The strong would kill the weak.
+  3. Even before we reach this carrying capacity, the stronger countries will wage food wars against their neighbors, to take what they need at the expense of everyone else. They will wage energy wars against their neighbors (for example, the oil wars that we have already seen in the Middle East). Canada is a country rich in natural resources and weak in national defense -- are we next in line for a "benevolent" takeover by a neighboring strong country?
+  4. **My role**: Try to limit population levels well below the carrying capacity. Talk about the topic with others.
+  5. **Bottom line**: Either we limit our population growth now and retain our humanity, or we savagely compete for scarce resources in the future.
 
 **Extra:**  
   1. Changes of state of matter:
