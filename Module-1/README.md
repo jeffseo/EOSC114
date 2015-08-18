@@ -88,8 +88,9 @@
   2. **Stress τ** is force per unit surface area, applied **parallel** to the surface. Stress tends to **strain** objects.
   3. Units for preassure and stress: 1 N/m^2 = 1 Pascal (Pa)
 13. **Describe population growth and explain why it is important for natural disasters.**
-  1. **Population Growth**: undergoing **exponential growth** at the moment.
+  1. **Population Growth**: undergoing **exponential growth** at the moment. 
 14. **Explain how Earth's carrying capacity and overpopulation are related to the fate of the human race, and anticipate your role in it.**
+  1. **Carrying capacity**: 
 
 **Extra:**  
   1. Changes of state of matter:
