@@ -25,15 +25,37 @@
         2. Here, neither plate is subducting or plunging, thus the plates crumple up like a rug being pushed together. Rocks are compressed and extensive small to very large earthquakes occur.
       3. **Dip-slip faults (reverse faults)**: are those where the side leaning on its neighbour moves up.
 3. **Describe how the Earth builds, stores, and releases energy in earthquakes (elastic rebound)**
+  1. The **size/strength** of an earthquake (called it's magnitude) is related to the energy released when it occurs.
   1. **Brittle deformation**:Consider a wooden stick being bent until it breaks. As forces applied to the material increase, the material stores the energy, i.e. we say that stress is accumulating. When the stress (force per unit area) exceeds the strength of the material, the material breaks. The accumulated energy is rapidly released as heat, motion, and sound. (Sound waves radiate away as pressure waves from the breaking stick).
   2. This is effectively a "catastrophic" release of energy. When rocks break catastrophically after accumulating stress over time, the resulting motion is called an **earthquake**. The energy is dissipated in the form of waves (i.e., the various types of seismic waves) that radiates away from the location of breakage.
+  3. an earthquake of magnitude 7 involves approximately **32 times as much energy** as a magnitude 6 earthquake. 
+  4. There are three conditions that affect the amount of energy released during an earthquake:
+    1. Area of zone broken
+    2. Strength of rocks being broken 
+    3. Amount of motion
 4. **Understand concepts of (1) stress causing strain and (2) plastic versus brittle deformation**
-  1.
+  1. **Stress** refers to the force per unit area while **strain** describes how materials change shape as a result of the stresses involved.
+    1. Stress can be broken down into 3 forces:
+      1. compressional forces - those that cause squeezing
+      2. tensional forces - those that cause a pulling apart of material
+      3. shear forces- those that cause twisting or shearing
   2. plastic versus brittle deformation:
     1. **Plastic deformation** occurs when the applied force permanently changes the shape of a rock without "breaking" it. 
     2. **Brittle deformation**: Consider a wooden stick being bent until it breaks. As forces applied to the material increase, the material stores the energy, i.e. we say that stress is accumulating. When the stress (force per unit area) exceeds the strength of the material, the material breaks.
 5. **Describe how the rupture propagates from the focus and why shaking and damage are not necessarily greatest at the epicenter**
+  1. **hypocentre** (point where energy was released; also called the **focus**)
+  2. This has to do with the type/characteristics of the ground.
 6. **Describe the different types of seismic waves and how they move through the Earth**
+  1. The energy released from faults is converted to wave energy. And the seismic wave types include:
+    1. **Body waves**: travel through the interior of materials. There are two forms of body waves. The distinction is based on the type of particle motion associated with the wave.
+      1. When particles move back and forth in line with the direction the waves are traveling, the wave is called a **pressure or primary wave**. These are more commonly referred to as **P-waves**.
+      2. When particles move from side to side, perpendicular to the direction that waves are traveling, the wave is called a shear or **secondary wave**. These are referred to as **S-waves.** S-waves travel slower than P-waves, hence the terms "primary" and "secondary" to characterize rate of energy transfer. 
+    2. **Surface waves**: travel only along surfaces and are generated when P and S-waves arrive at the Earth's surface. he energy can not continue on into air, so some are reflected back down and the rest of the energy pushes and pulls the particles of the ground near the surface resulting in generation of Rayleigh and Love waves. They then travel along the surface, causing the damage we are all so worried about. **Surface waves are much slower than body waves**, and the energy carried by them can not depart from the surface along which they are traveling.
+      1. Wave energy that travels along boundaries (rather than through materials) is called **surface wave energy**.
+      2. **Rayleigh wave**: particles experience a backward-rotating motion that is in line with the wave's direction. These are the waves that **cause the most damage** because they are largest, and they are most clearly felt because they travel along the Earth's surface.
+      3. **Love waves**: particles experience a side-to-side motion that is perpendicular to the wave's direction. This side-to-side motion is in a horizontal plane roughly parallel to the Earth's surface. Diagrams on page 44.
+      4. Note how Rayleigh waves cause motion in the x-z plane, which is perpendicular to the surface of the Earth. Love waves cause motion in the x-y plane, which is parallel to the surface of the Earth.
+    3. All 4 wave types travel at their own velocity, and the whole pattern of energy resulting from an earthquake becomes very complicated very soon after the event.
 7. **Understand the principle behind early warning systems (such as the one in Japan) and how much warning time they can give**
 8. **Describe how an earthquake is recorded and how to locate the epicenter**
 9. **Understand how local ground conditions can affect the duration and amplitude of shaking**
