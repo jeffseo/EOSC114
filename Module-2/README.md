@@ -67,6 +67,7 @@
 10. **Compare and contrast the meanings and uses of earthquake magnitude and intensity scales**
   1. The amount of energy at the source describes the magnitude (wattage of the light bulb), whereas the experience felt as a result of that energy is the "felt intensity" (amount of light at the place it is used).
 11. **Explain the different magnitude scales, which one is best for large quakes, and why**
+  1. Other **nomograms** or equations (similar but with different coefficients) would be needed to find magnitude from seismograms in different situations, or if a different part of the seismogram was to be used (such as the P-wave amplitude or the S-wave amplitude rather than surface wave amplitude). 
 12. **Explain factors that determine earthquake intensity**
   1. Earthquake magnitude:  Larger earthquakes have a much greater capacity to be catastrophic. However, this is only true if they occur near human activity.
   2. duration of shaking: Longer shaking will cause more damage.
@@ -90,6 +91,9 @@
   1. Cascadia:
     1. tectonic setting is optimal for large subduction zone earthquakes. Juan de Fuca plate is subducting under the North American plate and we know the largest earthquakes occur at subduction zones.
 16. **Explain what we can and cannot predict about large earthquakes**
+  1. We know where most (but not all!) faults are, and our knowledge of plate tectonics is sophisticated enough now that we know where plates move relative to each other. 
+  2. HOWEVER... very few faults are so well studied.
+  3. Additionally, faults are complex. Even the most well studied fault in the world, the San Andreas in California, is a very complicated feature. All known faults around the bend in the San Andreas are shown in the next figure, but there are also hidden faults in this system. So, yes, this fault is active, and earthquakes will occur along it. We have the answer for "Where?", but only to a very rough estimate. "Where exactly?" Which of the many associated branches, parallel and spawned faults will be the next to move?
 17. **Know the difference between forecasting and prediction**
   1. Prediction is too general a term. It implies making precise statements of what will happen in the future. Definitely not reasonable.
   2. Forecasting is a more reasonable term. Depending on the type of environment, weather forecasting is usually accurate for the next 24 hours, pretty good for 5 days, and begins to get less reliable further into the future. Earthquake forecasting on similar time scales would be quite useful. Anticipating events months or years in advance would be even more useful.
