@@ -162,3 +162,5 @@ Heavy condensation and precipitation from thunderstorms in the eye wall cause th
     4. What can you do to keep yourself and your family safe from hurricanes? Here are two preventative recommendations:
       1. Don't buy or build houses on or near the beach in southeastern USA
       2. Plan in advance for evacuation. Do NOT even think that you can "ride out the storm"
+
+Hurrican intensity is given by the **Saffir-Simpson Hurricane Scale**: this scale categorizes hurricanes based on the wind speed. Ranges from category 1 to 5 where 1 is minimal and 5 is catastrophic.
