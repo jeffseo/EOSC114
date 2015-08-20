@@ -191,3 +191,6 @@ In addition, the coastline behind a breakwater is protected from the erosive act
   5. **A seawall** is another form of coastal defense to reduce the effects of strong waves and to defend the coast around a town or harbour from erosion. In contrast to groins and breakwaters, which are built on the seaward side of the coastline, seawalls are constructed on the inland part of a coast. The walls are constructed to reflect wave power and can be sloping, vertical or curved.
 Rather than protecting the beach, seawalls ultimately promote increased erosion and destruction of beaches. The figure below details the sequence of events that lead to beach loss.
 **U. Relate these changes to risks for coastal communities**  
+
+As waves move from the deep ocean toward the coastline and into shallower water, their characteristics change. This
+process is called shoaling.
