@@ -38,14 +38,14 @@ When wind blows across the ocean surface, energy is transferred from the atmosph
 
 **D. Describe the forces that generate waves, eliminate waves, and return the ocean to a flat, undisturbed surface**  
 Generating/Disturbing Forces and the Wave types:
-  1. Wind over ocean -> Wind wave (Most common)
-  2. Changes in atmospheric pressure; Storm surge; Tsunami -> Seiche
-  3. Faulting of sea floor; Volcanic eruption; Landslide -> Tsunami
-  4. Gravitational attraction; Rotation of Earth -> Tide  
+  1. Wind over ocean -> Wind wave (Most common); Wavelength: 60 - 150 m
+  2. Changes in atmospheric pressure; Storm surge; Tsunami -> Seiche; Wavelength: large, variable; a fraction of basin size.
+  3. Faulting of sea floor; Volcanic eruption; Landslide -> Tsunami; Wavelength: 200 km
+  4. Gravitational attraction; Rotation of Earth -> Tide; Wavelength: 1/2 circumfrance of Earth, 20 000 km
 
 Restoring Forces and the wave types:
-  1. Surface tension -> Capillary Wave
-  2. Gravity -> Surface gravity waves (Wind wave, Seiche, Tsunami, Tide)  
+  1. Surface tension -> Capillary Wave; Wavelength: < 1.7 cm
+  2. Gravity -> Surface gravity waves (Wind wave, Seiche, Tsunami, Tide); Wavelength: > 1.7 cm
 
 
 
