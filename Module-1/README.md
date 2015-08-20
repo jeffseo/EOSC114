@@ -23,7 +23,7 @@
   1. **Order of magnitude** (power of ten) is used in disaster scales to indicate intensity and interpret graphs with logarithmic scales since it is simpler to understand/analyze.
 3. **Relate natural-disaster risk and intensity to frequency, return period, and consequences (costs).**
   1. More-intense disasters occur less frequently. Namely, intense disasters are relatively rare.
-  2. **Return period**: average number of years between disaster events of the same magnitude.
+  2. **Return period**: average number of years between disaster events of the same magnitude. n + 1 / m where n = number of years recorded, m = number of events that occurred during the years.
   3. You must be very careful when you interpret and utilize return-period data. 
     1. First, they are average statistics of PAST weather, not certainties of what will happen in the FUTURE
     2. Second, although winds of 140 km/h happened once every 50 years on average, the actual time period between any two events could have been less or more than 50 years.
