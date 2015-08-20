@@ -65,6 +65,9 @@
   1. The main features that must be identified to locate an earthquake are the **relative times that P- waves and S-waves arrive**. P-waves travel about 1.7 times faster than S-waves. Thus, the greater the difference in arrival times between these 2 wave types, the farther away the recording is from the earthquake origin.
   2. If one distance is estimated, the earthquake location could be anywhere on a circle with radius equal to the distance from the seismometer (equivalent to the compass's point in the figure). If three distances (epicentre to seismometer) can be estimated, the resulting three circles will intersect at the only possible location of the epicentre.
 9. **Understand how local ground conditions can affect the duration and amplitude of shaking**
+  1. Softer rocks can have more shaking
+  2. Higher frequencies decay faster in soft rocks.
+  3. Harder rocks are stiffer and generally experience smaller motions. Additionally, all frequencies of a seismic signal (high and low) pass more easily in hard rocks. Softer rocks in the same location, however are likely to experience larger motions. Higher frequencies also tend to decay more quickly in softer rocks.
 10. **Compare and contrast the meanings and uses of earthquake magnitude and intensity scales**
   1. The amount of energy at the source describes the magnitude (wattage of the light bulb), whereas the experience felt as a result of that energy is the "felt intensity" (amount of light at the place it is used).
 11. **Explain the different magnitude scales, which one is best for large quakes, and why**
