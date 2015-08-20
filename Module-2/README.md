@@ -45,6 +45,7 @@
 5. **Describe how the rupture propagates from the focus and why shaking and damage are not necessarily greatest at the epicenter**
   1. **hypocentre** (point where energy was released; also called the **focus**)
   2. This has to do with the type/characteristics of the ground.
+  3. Energy is released from earthquakes through wave energy (seismic waves). This can travel great distances, in a manner to the propogation of ripples after a pebble is tossed into water. Therefore, it can move far from the hypocentre and damage civilized areas.
 6. **Describe the different types of seismic waves and how they move through the Earth**
   1. The energy released from faults is converted to wave energy. And the seismic wave types include:
     1. **Body waves**: travel through the interior of materials. There are two forms of body waves. The distinction is based on the type of particle motion associated with the wave.
