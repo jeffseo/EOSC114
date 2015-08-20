@@ -34,6 +34,8 @@
   2. Concentration of Energy:
     1. In Area: Many of the energy sources are **diffuse** (weak, but covering a wide area). To create natural disasters requires the concentration of this energy into a small area. **Example:** Diffuse solar radiation (spread over the surface of the Earth) causes sensible heating of the air and ocean, some of which converts into latent heat by evaporating seawater. This warm, humid air can be concentrated by wind circulations, and drawn into hurricanes where it is released as violent winds, rain, waves, and storm surges.
     2. In Time: Other energy sources are **gradual** (weak, but spanning a long time). To create natural disasters requires the energy to continually build-up, allowing sudden release in a short time. **Example:** Movements of tectonic plates (large pieces of the Earth's crust) are gradual (in mm/a), but they allow stresses to build to the point where strain causes fracture along the fault lines, allowing the sudden movement that is an earthquake.
+    3. Energy is concentrated and is release in a sudden burst. This takes time to build up.
+    4. Subsequent events can be devastating; eg. after the spreading or dilution of the energy.
   3. Original sources for the energy that drives disasters on Earth are:
     1. Impacts from space, KE
     2. Gravitational, PE
