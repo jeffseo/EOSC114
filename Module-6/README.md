@@ -169,7 +169,17 @@ The shape, size, and behaviour of the breaking wave is controlled by the slope o
 
 **S. Describe how coastlines affect waves, and how waves affect coastlines**  
 
-In the figure above, the evenly spaced long black arrows represent wave normals (or orthogonal lines, lines perpendicular to the wave crests) that outline how energy is transported and focused on headlands. As you can see from the figure, the waves are in fact refracting as they hit an irregular coast causing wave energy to focus on headlands, and disperse (spreads out) across bays. Thus over time the shoreline straightens out as waves erodes sediments from headlands and deposits these in bays.  
+In the figure above on page 59, the evenly spaced long black arrows represent wave normals (or orthogonal lines, lines perpendicular to the wave crests) that outline how energy is transported and focused on headlands. As you can see from the figure, the waves are in fact refracting as they hit an irregular coast causing wave energy to focus on headlands, and disperse (spreads out) across bays. Thus over time the shoreline straightens out as waves erodes sediments from headlands and deposits these in bays.    
+
+Wave refraction is closely associated with an important process occurring in most coastlines -- shore straightening.
+Geologically "young" coasts tends to be irregular. As the figure below shows, when waves hit an irregular coast, they
+hit the headlands first because these jut farther out into the sea relative to the rest of the coast. Headlands absorb most
+of the energy transported by waves and tend to erode faster. The rest of the wave travel farther before they hit shore to
+the left and right of the headland, almost like wrapping around the headland. These hit the shore with much less
+energy, hence cause less erosion.  
+
+What is the ultimate effect of wave convergence on headlands and divergence in embayments?
+Headlands shrink (erode), and embayments fill in  
 
 **T. Compare and contrast the effects of artificial barriers such as groins, seawalls, and other structures, on coastal processes** (starts on page 66)  
   1. **Groins**. One of the most popular ways for people to control beach erosion is to build groins, which are elongate structures that protrude perpendicular to the shoreline. These structures have been proven to be quite successful in trapping and retaining sediments on the up-drift side (that facing the wave front) (see figure below).
