@@ -119,6 +119,13 @@ large, but it is very transient as it moves with the storm. Some hazards from do
     1. When the whole supercell storm rotates, it is called a mesocyclone. These rotating storms are the ones most likely to spawn tornadoes.
   15. **Relate the Enhanced Fujita scale to different amounts of damage.**
     1. **Tornado intensity** in North America is usually classified by the **Enhanced Fujita scale**, which is only based on the amount of damage to buildings.  Hence, classification by the Enhanced Fujita scale is possible only after the tornado has occurred, and the damage has been inspected. The scale ranges from **EF0** through **EF5**. **EF5 **is an exceptionally strong tornado that can totally destroy whole buildings, and **EF0** is a very weak tornado that might break a few windows. Although **EF6** and greater tornadoes are possible, they are impossible to determine from damage estimates because they all cause the same total destruction as an **EF5** tornado.
+    2. Example:
+      1. EF0: windows broken;
+      2. EF1: windows and minor roof damage;
+      3. EF2: roof almost totally destroyed, some exterior wall damage, but most interior wood-frame walls intact;
+      4. EF3: roof and many interior and exterior walls destroyed;
+      5. EF4: total destruction; all aboveground wood-frame walls destroyed, with the resulting debris littering the lot;
+      6. EF5: total above ground destruction of wood-frame building, with most of the debris blown away by the winds. All that remains are the foundations and concrete floor and
   16. **Describe safety procedures near tornadoes.**
     1. Tornadoes are usually very short lived (minutes), and have a damage path that is narrow (usually with width of a single house, up to the size of a city block). Rarely are tornadoes observed to last for hours, or to have damage paths 1 km or more wide. The damage paths are often one to tens of kilometers long, with some extreme paths of hundreds of kilometers long.
     2. The safest place to be, if a tornado is approaching you, is below ground in a basement or storm cellar. Some new homes in tornado alley are built with a closet designed as a "safe room", made of reinforced concrete walls and ceiling. This can be used as an aboveground tornado shelter if there is no basement.
