@@ -7,7 +7,7 @@
 2. **Understand the different types of faulting at different plate boundaries, and which plate boundaries produce the largest quakes**
   1. a **fault** is a region where rocks have broken over some area
   2. 4 types of plate boundaries:
-    1. Divergent:
+    1. Divergent: 
       1. plates are moving apart, leading to tension or stretching. Due to the tensional forces, rocks break and many small(ish) earthquakes occur. 
       2. occurs at mid-ocean ridges or spreading centres.
       3. **Dip-slip faults (normal faults)**: are those where the side leaning on its neighbour drops down, as might be expected if gravity had it's way.
@@ -15,7 +15,7 @@
       1. plates move past each other, leading to shearing forces between plates. Rocks are being sheared, thus many earthquakes occur here
       2. These are moderate to large 'quakes, but not as large as those that occur in the next 2 boundary types below.
       3. **Strike-slip Faults**
-    3. Convergent:
+    3. Convergent: (Produces the largest quakes)
       1. type 1:
         1.  plates move toward each other and collide, leading to compression.
         2.  In this type, one of the plates is less dense than the other (see examples below). Thus, one plate subducts or dives under the other at subduction zones.
