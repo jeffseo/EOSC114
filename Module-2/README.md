@@ -70,6 +70,14 @@
   3. Harder rocks are stiffer and generally experience smaller motions. Additionally, all frequencies of a seismic signal (high and low) pass more easily in hard rocks. Softer rocks in the same location, however are likely to experience larger motions. Higher frequencies also tend to decay more quickly in softer rocks.
 10. **Compare and contrast the meanings and uses of earthquake magnitude and intensity scales**
   1. The amount of energy at the source describes the magnitude (wattage of the light bulb), whereas the experience felt as a result of that energy is the "felt intensity" (amount of light at the place it is used).
+  2. Magnitude scale(?):
+   2. ML "Richter Magnitude" or "local magnitude" - based on largest amplitude of shaking for high-frequency body waves (estimates for large quakes are too low!)
+   3. MS "Surface wave magnitude" - based on S waves
+   4. MB "Body wave magnitude" - based on P waves (estimates for large quakes are too low!)
+   5. MW "Moment Magnitude" estimate is fundamentally different. It does NOT depend on a particular technique- **now the most commonly used scale for large earthquakes**
+  3. Intensity scale(?):
+    1. Mercalli Intensity: Not based on quantitative measures of ground displacement, velocity or acceleration. Based on felt reports, by people.
+    2. Instrumental intensity: calculated from seismograms - at a particular location - designed to match the Mercalli Intensity as well as possible.
 11. **Explain the different magnitude scales, which one is best for large quakes, and why**
   1. Other **nomograms** or equations (similar but with different coefficients) would be needed to find magnitude from seismograms in different situations, or if a different part of the seismogram was to be used (such as the P-wave amplitude or the S-wave amplitude rather than surface wave amplitude). 
 12. **Explain factors that determine earthquake intensity**
